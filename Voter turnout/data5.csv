@@ -1,0 +1,160 @@
+Age,Gender,Education Level,Income Level,Distance to Polling Station,Registered Party,Weather Type,Temperature,Election Type,Political Climate,Social Media Activity,Campaign Efforts,Public Transport Access,Day of the Week,Cultural Event,Economic Conditions,Previous Turnout,Voter Turnout
+50,Female,High School,Low,2 km,Independent,Sunny,25°C,Midterm,Positive,Moderate,Intense,No,Saturday,No,Stable,Medium,Yes
+30,Male,High School,Low,6 km,Republican,Sunny,27°C,Midterm,Neutral,Moderate,Low,Yes,Monday,No,Declining,Low,No
+40,Female,College,Medium,2 km,Democratic,Rainy,16°C,Local,Negative,Low,Moderate,No,Tuesday,Yes,Improving,High,No
+65,Male,High School,Low,5 km,Independent,Rainy,15°C,Midterm,Negative,Low,Moderate,No,Saturday,No,Declining,Low,No
+38,Female,College,High,1 km,Republican,Rainy,16°C,Local,Neutral,High,High,Yes,Tuesday,No,Declining,High,Yes
+35,Male,College,High,2 km,Democratic,Sunny,26°C,Local,Positive,High,High,Yes,Thursday,Yes,Declining,High,No
+22,Male,College,Low,1 km,Independent,Rainy,15°C,Midterm,Negative,Low,Low,Yes,Thursday,No,Declining,Low,No
+42,Male,College,Low,6 km,Republican,Rainy,16°C,Local,Negative,Low,Low,No,Saturday,No,Declining,Low,No
+25,Male,High School,Medium,7 km,Democratic,Sunny,27°C,Midterm,Positive,High,High,No,Sunday,No,Stable,Medium,Yes
+50,Female,College,High,9 km,Democratic,Rainy,15°C,Local,Negative,Low,Low,No,Monday,Yes,Declining,Low,No
+48,Female,High School,Low,6 km,Independent,Cloudy,19°C,Local,Neutral,Low,Low,No,Friday,Yes,Stable,Medium,No
+55,Male,College,Medium,9 km,Republican,Rainy,16°C,Local,Negative,Low,Low,Yes,Tuesday,Yes,Stable,High,No
+38,Female,College,Medium,6 km,Democratic,Sunny,26°C,Local,Negative,High,Low,No,Saturday,No,Stable,Medium,Yes
+45,Male,College,High,2 km,Republican,Rainy,16°C,Local,Negative,Low,Moderate,Yes,Friday,No,Stable,Medium,No
+65,Female,College,High,3 km,Independent,Cloudy,20°C,Presidential,Positive,High,High,No,Saturday,Yes,Stable,Medium,Yes
+32,Female,College,High,10 km,Republican,Cloudy,11°C,Local,Positive,High,Intense,No,Thursday,No,Improving,Low,No
+47,Female,College,Medium,3 km,Republican,Sunny,21°C,Local,Negative,Moderate,Moderate,No,Monday,No,Stable,Low,Yes
+38,Female,College,Medium,6 km,Democratic,Sunny,26°C,Local,Negative,High,Low,No,Saturday,No,Stable,Medium,Yes
+40,Female,College,Medium,2 km,Democratic,Rainy,16°C,Local,Negative,Low,Moderate,No,Tuesday,Yes,Improving,High,No
+40,Male,College,Low,9 km,Democratic,Cloudy,09°C,Presidential,Negative,Moderate,Intense,No,Tuesday,Yes,Declining,Medium,No
+28,Female,High School,Low,4 km,Democratic,Sunny,24°C,Presidential,Positive,High,Intense,No,Wednesday,Yes,Improving,Medium,Yes
+28,Male,College,High,5 km,Democratic,Sunny,19°C,Local,Neutral,Moderate,Low,Yes,Saturday,No,Stable,Medium,Yes
+42,Male,College,High,2 km,Democratic,Sunny,23°C,Local,Positive,High,Moderate,Yes,Wednesday,No,Improving,Medium,Yes
+32,Female,College,High,10 km,Republican,Cloudy,11°C,Local,Positive,High,Intense,No,Thursday,No,Improving,Low,No
+32,Female,High School,Medium,2 km,Democratic,Cloudy,21°C,Presidential,Neutral,High,Moderate,Yes,Friday,Yes,Improving,Medium,No
+28,Male,College,Medium,5 km,Democratic,Cloudy,18°C,Local,Positive,Moderate,Low,No,Friday,No,Improving,Medium,No
+30,Female,College,Low,12 km,Republican,Rainy,10°C,Midterm,Negative,Moderate,Low,No,Monday,No,Declining,Low,No
+48,Male,College,Low,2 km,Republican,Rainy,11°C,Local,Positive,Moderate,Low,Yes,Thursday,Yes,Declining,Low,No
+32,Male,College,Low,9 km,Republican,Cloudy,12°C,Presidential,Neutral,Low,Moderate,No,Wednesday,Yes,Stable,Low,No
+22,Female,College,Low,3 km,Democratic,Cloudy,22°C,Local,Positive,Low,Moderate,Yes,Monday,No,Improving,Low,Yes
+40,Male,College,Medium,3 km,Democratic,Sunny,28°C,Midterm,Positive,High,High,Yes,Tuesday,Yes,Improving,Low,Yes
+48,Male,College,Low,4 km,Republican,Sunny,17°C,Local,Positive,High,Low,No,Saturday,No,Improving,High,Yes
+32,Male,College,Low,9 km,Republican,Cloudy,12°C,Presidential,Neutral,Low,Moderate,No,Wednesday,Yes,Stable,Low,No
+32,Male,College,Low,5 km,Democratic,Rainy,19°C,Midterm,Positive,High,Intense,Yes,Saturday,No,Improving,Low,Yes
+38,Male,High School,Low,5 km,Democratic,Cloudy,18°C,Presidential,Neutral,Moderate,Low,Yes,Tuesday,No,Declining,Low,No
+35,Male,College,Medium,2 km,Republican,Sunny,11°C,Local,Negative,Moderate,Moderate,No,Friday,Yes,Improving,Medium,No
+49,Male,High School,Medium,13 km,Democratic,Cloudy,10°C,Midterm,Neutral,Moderate,Low,No,Wednesday,Yes,Improving,Low,No
+26,Male,High School,Low,3 km,Independent,Sunny,23°C,Local,Positive,High,Intense,Yes,Monday,No,Stable,High,Yes
+38,Female,College,Medium,3 km,Democratic,Cloudy,14°C,Midterm,Positive,High,Low,No,Thursday,No,Stable,High,Yes
+30,Male,High School,Low,6 km,Republican,Sunny,27°C,Midterm,Neutral,Moderate,Low,Yes,Monday,No,Declining,Low,No
+32,Male,College,Medium,1 km,Democratic,Rainy,13°C,Local,Positive,High,Low,Yes,Sunday,No,Improving,Medium,Yes
+55,Male,College,Medium,9 km,Republican,Rainy,16°C,Local,Negative,Low,Low,Yes,Tuesday,Yes,Stable,High,No
+45,Female,College,High,1 km,Republican,Rainy,14°C,Local,Negative,Low,Moderate,No,Thursday,No,Improving,Medium,Yes
+40,Male,College,High,3 km,Republican,Cloudy,22°C,Presidential,Neutral,High,Intense,Yes,Saturday,Yes,Improving,Medium,No
+50,Female,High School,Low,6 km,Independent,Cloudy,19°C,Midterm,Negative,Low,Low,Yes,Wednesday,No,Stable,Medium,No
+28,Male,College,High,10 km,Independent,Sunny,30°C,Presidential,Positive,High,High,Yes,Wednesday,No,Stable,Medium,Yes
+48,Male,College,Low,4 km,Republican,Sunny,17°C,Local,Positive,High,Low,No,Saturday,No,Improving,High,Yes
+29,Female,College,High,12 km,Independent,Cloudy,14°C,Presidential,Neutral,Low,Moderate,Yes,Saturday,Yes,Declining,Medium,Yes
+50,Female,High School,Medium,1 km,Republican,Rainy,14°C,Midterm,Positive,Low,Moderate,Yes,Sunday,Yes,Declining,Medium,No
+42,Female,College,Low,1 km,Democratic,Sunny,23°C,Midterm,Positive,High,High,Yes,Saturday,No,Stable,High,Yes
+42,Female,College,Medium,7 km,Republican,Rainy,16°C,Presidential,Neutral,Low,Moderate,No,Friday,No,Improving,Medium,Yes
+32,Male,College,Low,6 km,Republican,Rainy,14°C,Presidential,Positive,High,High,Yes,Sunday,Yes,Improving,Low,Yes
+30,Male,College,High,5 km,Republican,Sunny,23°C,Local,Negative,Low,Intense,Yes,Saturday,Yes,Improving,High,Yes
+55,Female,High School,Low,10 km,Republican,Rainy,15°C,Midterm,Negative,Low,High,Yes,Monday,No,Stable,High,No
+28,Male,High School,Low,9 km,Republican,Rainy,13°C,Local,Positive,High,High,No,Sunday,Yes,Stable,High,Yes
+28,Male,College,Low,3 km,Independent,Sunny,23°C,Local,Positive,High,Intense,Yes,Friday,Yes,Stable,High,Yes
+32,Male,College,High,6 km,Independent,Rainy,17°C,Local,Positive,High,Moderate,No,Tuesday,No,Stable,Medium,Yes
+28,Female,College,Medium,7 km,Democratic,Cloudy,13°C,Local,Positive,High,Moderate,No,Wednesday,No,Stable,Low,No
+28,Male,College,Low,4 km,Republican,Rainy,12°C,Presidential,Negative,High,Intense,No,Friday,Yes,Improving,Low,No
+28,Female,High School,Low,4 km,Democratic,Sunny,24°C,Presidential,Positive,High,Intense,No,Wednesday,Yes,Improving,Medium,Yes
+37,Male,College,High,3 km,Democratic,Sunny,20°C,Presidential,Negative,High,Intense,Yes,Sunday,No,Improving,Medium,Yes
+35,Male,College,High,7 km,Republican,Rainy,14°C,Presidential,Neutral,Low,High,Yes,Wednesday,Yes,Declining,High,No
+28,Male,College,High,1 km,Republican,Sunny,24°C,Presidential,Neutral,High,Moderate,No,Tuesday,Yes,Declining,Low,Yes
+28,Male,High School,Low,4 km,Republican,Sunny,27°C,Midterm,Positive,Moderate,High,Yes,Wednesday,No,Improving,High,Yes
+28,Female,College,Medium,7 km,Democratic,Cloudy,13°C,Local,Positive,High,Moderate,No,Wednesday,No,Stable,Low,No
+40,Female,College,High,4 km,Independent,Sunny,22°C,Presidential,Neutral,High,Moderate,Yes,Wednesday,No,Declining,Low,Yes
+35,Female,College,Medium,4 km,Democratic,Sunny,21°C,Midterm,Positive,Moderate,Low,No,Sunday,No,Stable,High,Yes
+55,Male,College,Medium,8 km,Independent,Sunny,28°C,Midterm,Positive,Moderate,High,No,Monday,No,Stable,High,Yes
+38,Female,College,Low,7 km,Independent,Cloudy,18°C,Presidential,Positive,High,High,No,Wednesday,Yes,Declining,Low,Yes
+28,Female,College,Low,9 km,Democratic,Sunny,15°C,Midterm,Negative,Low,Intense,No,Sunday,No,Declining,Medium,Yes
+33,Female,College,Low,3 km,Independent,Cloudy,21°C,Presidential,Neutral,Moderate,Moderate,Yes,Monday,No,Declining,Low,No
+28,Male,College,High,10 km,Independent,Sunny,30°C,Presidential,Positive,High,High,Yes,Wednesday,No,Stable,Medium,Yes
+29,Female,College,High,12 km,Democratic,Cloudy,08°C,Presidential,Neutral,Moderate,Moderate,No,Monday,Yes,Declining,High,No
+35,Female,College,Medium,4 km,Democratic,Sunny,21°C,Midterm,Positive,Moderate,Low,No,Sunday,No,Stable,High,Yes
+45,Female,High School,Medium,8 km,Democratic,Cloudy,20°C,Local,Positive,Moderate,Low,Yes,Saturday,Yes,Improving,High,Yes
+40,Male,College,Medium,1 km,Democratic,Sunny,24°C,Presidential,Positive,High,Intense,Yes,Saturday,No,Improving,High,Yes
+38,Male,College,High,6 km,Independent,Cloudy,18°C,Local,Neutral,Moderate,Low,No,Friday,No,Stable,Low,No
+28,Female,College,Low,9 km,Democratic,Sunny,15°C,Midterm,Negative,Low,Intense,No,Sunday,No,Declining,Medium,Yes
+55,Female,College,Medium,3 km,Democratic,Sunny,24°C,Midterm,Neutral,Moderate,Low,Yes,Friday,Yes,Improving,Medium,No
+48,Female,High School,Low,6 km,Independent,Cloudy,19°C,Local,Neutral,Low,Low,No,Friday,Yes,Stable,Medium,No
+45,Female,College,High,5 km,Republican,Cloudy,20°C,Local,Neutral,Moderate,Moderate,No,Saturday,Yes,Improving,Medium,Yes
+40,Male,College,Low,9 km,Democratic,Cloudy,09°C,Presidential,Negative,Moderate,Intense,No,Tuesday,Yes,Declining,Medium,No
+38,Male,High School,Low,5 km,Democratic,Cloudy,18°C,Presidential,Neutral,Moderate,Low,Yes,Tuesday,No,Declining,Low,No
+30,Female,College,High,6 km,Democratic,Sunny,17°C,Local,Positive,Moderate,Intense,No,Saturday,No,Declining,High,Yes
+40,Male,College,Medium,3 km,Democratic,Sunny,28°C,Midterm,Positive,High,High,Yes,Tuesday,Yes,Improving,Low,Yes
+45,Male,College,High,7 km,Democratic,Rainy,16°C,Presidential,Positive,High,Intense,Yes,Monday,Yes,Improving,High,Yes
+42,Male,High School,Medium,1 km,Republican,Rainy,19°C,Local,Positive,High,Moderate,Yes,Saturday,Yes,Improving,Medium,Yes
+35,Female,College,High,8 km,Republican,Rainy,17°C,Presidential,Negative,Moderate,Moderate,No,Sunday,No,Stable,High,Yes
+46,Female,High School,Low,1 km,Republican,Rainy,25°C,Midterm,Neutral,Moderate,Moderate,No,Sunday,No,Improving,Low,Yes
+45,Female,High School,Low,5 km,Republican,Cloudy,19°C,Midterm,Neutral,Moderate,Moderate,No,Friday,Yes,Declining,Low,No
+32,Female,High School,Medium,2 km,Democratic,Cloudy,21°C,Presidential,Neutral,High,Moderate,Yes,Friday,Yes,Improving,Medium,No
+22,Male,College,High,1 km,Independent,Sunny,24°C,Presidential,Positive,Low,Intense,Yes,Wednesday,Yes,Improving,High,Yes
+42,Female,College,Medium,8 km,Independent,Sunny,30°C,Local,Neutral,High,Low,No,Saturday,No,Stable,Low,No
+32,Female,College,High,1 km,Republican,Cloudy,03°C,Local,Neutral,High,Low,Yes,Tuesday,Yes,Declining,Low,No
+30,Male,College,High,1 km,Republican,Sunny,23°C,Local,Positive,High,Intense,Yes,Monday,No,Declining,High,Yes
+45,Female,High School,Low,1 km,Republican,Cloudy,19°C,Presidential,Negative,Moderate,Low,No,Thursday,No,Declining,Low,No
+55,Female,High School,Medium,10 km,Democratic,Sunny,28°C,Local,Positive,High,Intense,No,Tuesday,No,Stable,High,Yes
+32,Male,College,Low,5 km,Democratic,Rainy,19°C,Midterm,Positive,High,Intense,Yes,Saturday,No,Improving,Low,Yes
+28,Male,College,Low,4 km,Republican,Rainy,12°C,Presidential,Negative,High,Intense,No,Friday,Yes,Improving,Low,No
+33,Male,College,Medium,1 km,Independent,Cloudy,21°C,Presidential,Positive,High,Intense,Yes,Thursday,No,Stable,Medium,No
+42,Male,College,Low,6 km,Republican,Rainy,16°C,Local,Negative,Low,Low,No,Saturday,No,Declining,Low,No
+37,Male,College,High,3 km,Democratic,Sunny,20°C,Presidential,Negative,High,Intense,Yes,Sunday,No,Improving,Medium,Yes
+28,Male,High School,Medium,3 km,Democratic,Sunny,25°C,Local,Neutral,Moderate,Low,Yes,Tuesday,No,Improving,Medium,No
+22,Male,College,Low,1 km,Independent,Rainy,15°C,Midterm,Negative,Low,Low,Yes,Thursday,No,Declining,Low,No
+45,Female,College,High,5 km,Republican,Cloudy,20°C,Local,Neutral,Moderate,Moderate,No,Saturday,Yes,Improving,Medium,Yes
+55,Female,High School,Medium,10 km,Democratic,Sunny,28°C,Local,Positive,High,Intense,No,Tuesday,No,Stable,High,Yes
+33,Female,College,Low,3 km,Independent,Cloudy,21°C,Presidential,Neutral,Moderate,Moderate,Yes,Monday,No,Declining,Low,No
+22,Male,College,Low,8 km,Democratic,Sunny,26°C,Local,Negative,Moderate,High,Yes,Thursday,No,Improving,High,Yes
+35,Male,College,Medium,2 km,Republican,Sunny,11°C,Local,Negative,Moderate,Moderate,No,Friday,Yes,Improving,Medium,No
+49,Male,High School,Medium,13 km,Democratic,Cloudy,10°C,Midterm,Neutral,Moderate,Low,No,Wednesday,Yes,Improving,Low,No
+65,Male,High School,Low,5 km,Independent,Rainy,15°C,Midterm,Negative,Low,Moderate,No,Saturday,No,Declining,Low,No
+30,Male,High School,Medium,2 km,Democratic,Sunny,25°C,Presidential,Positive,High,Intense,Yes,Tuesday,No,Stable,High,Yes
+40,Male,College,High,3 km,Republican,Cloudy,22°C,Presidential,Neutral,High,Intense,Yes,Saturday,Yes,Improving,Medium,No
+22,Male,High School,Low,4 km,Independent,Sunny,22°C,Local,Neutral,Low,Low,Yes,Wednesday,No,Declining,Medium,No
+28,Male,College,High,5 km,Democratic,Sunny,19°C,Local,Neutral,Moderate,Low,Yes,Saturday,No,Stable,Medium,Yes
+29,Female,College,High,12 km,Democratic,Cloudy,08°C,Presidential,Neutral,Moderate,Moderate,No,Monday,Yes,Declining,High,No
+45,Male,High School,Medium,6 km,Independent,Sunny,28°C,Midterm,Negative,Moderate,Low,No,Friday,Yes,Stable,Medium,No
+42,Male,College,High,2 km,Democratic,Sunny,23°C,Local,Positive,High,Moderate,Yes,Wednesday,No,Improving,Medium,Yes
+30,Male,High School,High,8 km,Republican,Rainy,17°C,Midterm,Neutral,Low,Low,Yes,Tuesday,No,Declining,Low,Yes
+32,Male,College,Medium,1 km,Democratic,Rainy,13°C,Local,Positive,High,Low,Yes,Sunday,No,Improving,Medium,Yes
+40,Male,College,Medium,1 km,Democratic,Sunny,24°C,Presidential,Positive,High,Intense,Yes,Saturday,No,Improving,High,Yes
+32,Male,College,Low,4 km,Independent,Rainy,15°C,Midterm,Negative,Low,Moderate,Yes,Thursday,No,Declining,Low,No
+22,Male,College,Low,8 km,Democratic,Sunny,26°C,Local,Negative,Moderate,High,Yes,Thursday,No,Improving,High,Yes
+28,Female,College,Medium,3 km,Independent,Sunny,24°C,Local,Positive,High,Intense,Yes,Saturday,Yes,Stable,High,Yes
+38,Female,College,Medium,3 km,Democratic,Cloudy,14°C,Midterm,Positive,High,Low,No,Thursday,No,Stable,High,Yes
+30,Female,College,Low,12 km,Republican,Rainy,10°C,Midterm,Negative,Moderate,Low,No,Monday,No,Declining,Low,No
+28,Male,College,Low,3 km,Independent,Sunny,23°C,Local,Positive,High,Intense,Yes,Friday,Yes,Stable,High,Yes
+50,Female,High School,Medium,1 km,Republican,Rainy,14°C,Midterm,Positive,Low,Moderate,Yes,Sunday,Yes,Declining,Medium,No
+30,Male,High School,High,8 km,Republican,Rainy,17°C,Midterm,Neutral,Low,Low,Yes,Tuesday,No,Declining,Low,Yes
+58,Female,College,High,9 km,Republican,Sunny,29°C,Local,Positive,High,High,No,Monday,Yes,Stable,High,Yes
+42,Female,College,Low,1 km,Democratic,Sunny,23°C,Midterm,Positive,High,High,Yes,Saturday,No,Stable,High,Yes
+22,Female,High School,Low,6 km,Democratic,Sunny,26°C,Midterm,Neutral,Moderate,Low,No,Sunday,Yes,Improving,High,Yes
+42,Female,College,High,2 km,Republican,Sunny,26°C,Local,Positive,High,Intense,Yes,Thursday,Yes,Improving,High,Yes
+29,Female,College,High,12 km,Independent,Cloudy,14°C,Presidential,Neutral,Low,Moderate,Yes,Saturday,Yes,Declining,Medium,Yes
+65,Female,College,High,3 km,Independent,Cloudy,20°C,Presidential,Positive,High,High,No,Saturday,Yes,Stable,Medium,Yes
+47,Female,College,Medium,3 km,Republican,Sunny,21°C,Local,Negative,Moderate,Moderate,No,Monday,No,Stable,Low,Yes
+28,Female,College,Medium,10 km,Democratic,Cloudy,20°C,Presidential,Neutral,Moderate,Low,No,Wednesday,Yes,Stable,Medium,No
+28,Female,College,Medium,3 km,Independent,Sunny,24°C,Local,Positive,High,Intense,Yes,Saturday,Yes,Stable,High,Yes
+35,Female,College,High,8 km,Republican,Rainy,17°C,Presidential,Negative,Moderate,Moderate,No,Sunday,No,Stable,High,Yes
+42,Female,College,High,2 km,Republican,Sunny,26°C,Local,Positive,High,Intense,Yes,Thursday,Yes,Improving,High,Yes
+48,Male,College,Low,2 km,Republican,Rainy,11°C,Local,Positive,Moderate,Low,Yes,Thursday,Yes,Declining,Low,No
+46,Female,High School,Low,1 km,Republican,Rainy,25°C,Midterm,Neutral,Moderate,Moderate,No,Sunday,No,Improving,Low,Yes
+38,Male,College,High,6 km,Independent,Cloudy,18°C,Local,Neutral,Moderate,Low,No,Friday,No,Stable,Low,No
+26,Male,High School,Low,5 km,Democratic,Cloudy,20°C,Presidential,Positive,High,Moderate,No,Sunday,Yes,Improving,Medium,Yes
+22,Male,High School,Low,4 km,Independent,Sunny,22°C,Local,Neutral,Low,Low,Yes,Wednesday,No,Declining,Medium,No
+28,Female,College,Medium,10 km,Democratic,Cloudy,20°C,Presidential,Neutral,Moderate,Low,No,Wednesday,Yes,Stable,Medium,No
+45,Male,College,High,7 km,Democratic,Rainy,16°C,Presidential,Positive,High,Intense,Yes,Monday,Yes,Improving,High,Yes
+28,Male,College,Medium,8 km,Democratic,Sunny,29°C,Local,Neutral,High,Moderate,Yes,Sunday,Yes,Improving,High,Yes
+42,Male,High School,Medium,1 km,Republican,Rainy,19°C,Local,Positive,High,Moderate,Yes,Saturday,Yes,Improving,Medium,Yes
+55,Male,College,Medium,8 km,Independent,Sunny,28°C,Midterm,Positive,Moderate,High,No,Monday,No,Stable,High,Yes
+30,Male,College,High,5 km,Republican,Sunny,23°C,Local,Negative,Low,Intense,Yes,Saturday,Yes,Improving,High,Yes
+25,Male,High School,Medium,7 km,Democratic,Sunny,27°C,Midterm,Positive,High,High,No,Sunday,No,Stable,Medium,Yes
+30,Female,College,High,6 km,Democratic,Sunny,17°C,Local,Positive,Moderate,Intense,No,Saturday,No,Declining,High,Yes
+30,Male,High School,Medium,2 km,Democratic,Sunny,25°C,Presidential,Positive,High,Intense,Yes,Tuesday,No,Stable,High,Yes
+45,Female,College,High,1 km,Republican,Rainy,14°C,Local,Negative,Low,Moderate,No,Thursday,No,Improving,Medium,Yes
+45,Female,High School,Low,5 km,Republican,Cloudy,19°C,Midterm,Neutral,Moderate,Moderate,No,Friday,Yes,Declining,Low,No
+32,Female,College,High,1 km,Republican,Cloudy,03°C,Local,Neutral,High,Low,Yes,Tuesday,Yes,Declining,Low,No
+30,Male,College,High,1 km,Republican,Sunny,23°C,Local,Positive,High,Intense,Yes,Monday,No,Declining,High,Yes
+32,Male,College,Low,6 km,Republican,Rainy,14°C,Presidential,Positive,High,High,Yes,Sunday,Yes,Improving,Low,Yes

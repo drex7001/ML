@@ -1,0 +1,499 @@
+Name,Age,Gender,Address,Education,Job ( clerical/forces  /agriculture/ labor/retired/ other),Monthly Income,Source of water for drinking(tube well/public well/private well/pipe bourn),Smorking or not,Using alcohol or not,Using betel nut or not,Do you have any of this disorders diabetes/stress/blood pressure ,TP,Having kidney disease
+Yasawathi Karunarathna,46,Female,"Abayapura Rd,  Padaviya",Primary,Forces,70000,Public well,Smoking,Yes,Yes,No,746985260,Yes
+Wimalaweera,66,Male,"Ikiriwawa Rd ,Thmbuthegama",05 grade,Other,33500,Public well,Smoking,No,No,No,703569874,Yes
+Wimalawathi,50,Female,"Ambalama Mawatha,Mahadivulwawa, Kakirawa",OL,Other,37000,Public well,Not smoking,No,No,No,758952834,Yes
+Wijitha Amunugama,57,Male,"Labunoruwa ,Thirippane",AL,Retired,24500,Public well,Smoking,No,No,No,745296325,Yes
+Wasanthi,50,Female,"Kala Gama,Thmbuthegama",AL,Retired,25000,Tube well,Smoking,Yes,Yes,No,375832456,Yes
+Wasantha Sadamali,50,Female,"Wali Oya, Kalyanipura , Walioya",OL,Agriculture,25000,Tube well,Smoking,No,No,No,254965821,Yes
+Wasantha Sendis,56,Male,"Thammenawa, Mihinthle,Anurdhapura",OL,Forces,55000,Tube well,Smoking,Yes,Yes,Diabetes,723625145,Yes
+Wasana Chandrathilaka,39,Female,"Padaviya Wewa Rd, Padaviya",OL,Other,29000,Tube well,Smoking,No,No,Pressure,756925801,Yes
+W.G.P Wijepala ,54,Male,"Delnegama, Thmbuthegama",OL,Agriculture,33000,Pipe Bourn,Smoking,Yes,Yes,No,774964580,Yes
+Vipula Disanayaka,53,Male,"114wawa Road, Galkandagama,Rambawa",OL,Other,41000,Pipe Bourn,Smoking,Yes,Yes,No,775935151,Yes
+Vinitha Rajakaruna,52,Female,"Kattaragama,Iplogama,Anurdhapura",OL,Other,33000,Pipe Bourn,Not smoking,No,No,Diabetes,746598213,Yes
+Upul Semasigha,44,Male,"Railway Town,Madawachiya",09 grade,Retired,24500,Pipe Bourn,Not smoking,No,Yes,No,776698318,Yes
+Upul ,46,Male,"Hadungama, Ipalogama, Anurdhapura",AL,Agriculture,31000,Pipe Bourn,Smoking,No,Yes,Stress,748596215,Yes
+Upali,57,Male,"Kuda Wawa  Kiriibban Wawa,Walioya",Has not gone to school.,Agriculture,21500,private well,Smoking,No,Yes,Stress,712589631,Yes
+Ukkubanada,59,Male,"Nawagththa Para, Kakirawa.",Has not gone to school.,Agriculture,31500,private well,Smoking,No,Yes,Stress,728569478,Yes
+Udhitha Jiwantha,39,Male,"Halagama, Mihinthle",Has not gone to school.,Agriculture,24500,private well,Smoking,No,No,Stress,742368422,Yes
+Thusitha Sadaruwan,40,Male,"44 Kalagama Rd , Kalagama  Thmbuthegama",Has not gone to school.,Other,27000,private well,Not smoking,No,No,No,745386257,Yes
+Thiwanaka,39,Male,"Nawagththa Para, Kakirawa.",Has not gone to school.,Other,32000,Pipe Bourn,Not smoking,No,Yes,Diabetes,742589680,Yes
+Thissa Rajakaruna,40,Male,"Negama, Ipologama, Anurdhapura",Has not gone to school.,Forces,24500,Pipe Bourn,Not smoking,No,Yes,Diabetes,756987145,Yes
+Thilanga Bandara,47,Male,"Kandiya Mawatha, Delnegama, Thmbuthegama",Has not gone to school.,Agriculture,28000,Pipe Bourn,Smoking,No,Yes,No,754125896,Yes
+Thilaksiri,55,Male,"Rohal Mawatha ,Thmbuththegama",Has not gone to school.,Other,34500,Pipe Bourn,Smoking,No,Yes,No,743256894,Yes
+Thilakasiri Pathirana,39,Male,Padaviya Lake Rd.Padaviya,Has not gone to school.,Agriculture,35000,Pipe Bourn,Not smoking,No,Yes,Stress,788965412,Yes
+Thilak Pushpakumara,36,Male," 112  Suhada Mawatha ,Thissapura,  Thambutheagama",Has not gone to school.,Other,31500,Pipe Bourn,Smoking,Yes,Yes,Pressure,785921450,Yes
+Thilak Gunasigha,50,Male,"Ihlagama, Nikawawa,Walioya",Has not gone to school.,Forces,59000,Pipe Bourn,Smoking,Yes,Yes,Pressure,725063265,Yes
+Tharanga Liyange,38,Female,"Wali Oya Kalyanipura , Walioya",AL,Other,43000,Pipe Bourn,Smoking,Yes,Yes,Pressure,745236897,Yes
+Thanuja ,45,Female,"Kala Gama, Thmbuthegam",AL,Agriculture,31500,Pipe Bourn,Smoking,Yes,Yes,Pressure,753697136,Yes
+Suresh Kumara,45,Male,"Halagama, Mihinthle",Has not gone to school.,Agriculture,29000,Pipe Bourn,Smoking,Yes,No,Pressure,752398714,Yes
+Surendra  Nayanajith,50,Male,"Bulnewa, Iapalogama, Anurdhapura",Has not gone to school.,Agriculture,30000,Pipe Bourn,Smoking,Yes,No,Pressure,758963241,Yes
+Surendra ,36,Male,"Namalgamuwa, Ipalogama ,Anurdhapura",Has not gone to school.,Agriculture,30000,Pipe Bourn,Smoking,Yes,No,No,756985247,Yes
+Surasigha ,46,Male,"Hadungama, Ipalogama, Anurdhapura",Has not gone to school.,Other,33000,Pipe Bourn,Smoking,Yes,Yes,Diabetes,745556982,Yes
+Supun Kariyawasam,39,Male,"215 Uthuru Yaya  Kubukwawa, Padaviya",Has not gone to school.,Agriculture,37000,Pipe Bourn,Smoking,Yes,Yes,No,251369874,Yes
+Supun Disanayaka,45,Male,"Walpola, Madawachchiya",Has not gone to school.,Other,32000,Pipe Bourn,Smoking,Yes,Yes,No,712539874,Yes
+Sunil Ariyadasa,45,Male," Janadhipathi Mawatha, Pahalagama, Thmbuthegama",Has not gone to school.,Agriculture,24500,Pipe Bourn,Smoking,Yes,Yes,Diabetes,748956324,Yes
+Sunil  Gunasekara,50,Male,"Thissapura, Rajanaganaya",Has not gone to school.,Agriculture,28500,Pipe Bourn,Smoking,Yes,Yes,Diabetes,753687963,Yes
+Sumith Rajapaksha,36,Male,"63/1  Pahala Thalawa , Thalawa",Has not gone to school.,Other,34500,Pipe Bourn,Smoking,Yes,Yes,No,758693527,Yes
+Sumith,64,Male,"Kuda Wawa  Kiriibban Wawa,Walioya",Has not gone to school.,Other,35000,Pipe Bourn,Smoking,Yes,Yes,No,758963123,Yes
+Sumeda Gunawardhana,45,Male,"Wihara Mawatha, Ihala Kirigas Wawa, Kirigaswawa,Kahatagasdigiliya",Has not gone to school.,Agriculture,32500,Pipe Bourn,Smoking,Yes,Yes,Diabetes,745632891,Yes
+Sujith Premathilaka,56,Male,"Walpola, Madawachchiya",Has not gone to school.,Agriculture,59000,Pipe Bourn,Smoking,Yes,Yes,No,773509625,Yes
+Sujith Palugaswawa,50,Male,"Bulnewa, Iapalogama, Anurdhapura",Has not gone to school.,Agriculture,36000,Pipe Bourn,Smoking,Yes,Yes,No,782365981,Yes
+Sujatha Athukorala,52,Female,"Mahakubuk Wawa, Kahatagasgigiliya",OL,Other,42000,Pipe Bourn,Smoking,Yes,Yes,Stress,725896341,Yes
+Sugath Priyankara,60,Male,"Randenigama,Rajanaganaya",Has not gone to school.,Agriculture,60000,Pipe Bourn,Smoking,Yes,Yes,No,775563259,Yes
+Sugath Karunarathna,46,Male,"Yakawewa, Madawachiya",Has not gone to school.,Other,40000,Pipe Bourn,Smoking,Yes,Yes,No,745632178,Yes
+Sugath  Gunathilaka,29,Male,"Ihala Kalagama, Kalagama, Thmbuththegama",Has not gone to school.,Other,65000,Public well,Smoking,Yes,Yes,Pressure,786596324,Yes
+Sugath  Chandrasekara,35,Male,"Thammenawa, Mihinthle,Anurdhapura",Has not gone to school.,Agriculture,30000,Public well,Smoking,Yes,Yes,Pressure,703698520,Yes
+Sudu Appu,50,Male,"Negama, Ipologama, Anurdhapura",Has not gone to school.,Agriculture,25000,Public well,Smoking,Yes,Yes,No,254569873,Yes
+Sudera Roshan Senanayaka,54,Male,"Weheragala ,Rajanaganaya",Has not gone to school.,Other,55000,Public well,Smoking,Yes,Yes,No,752896347,Yes
+Sudera,36,Male,"Siyabalagaswawa Rd  Siyabalagaswawa ,Rembewa",Has not gone to school.,Other,27000,Public well,Not smoking,No,No,No,745698225,Yes
+Sudarma,53,Female,"Jankapura, Nikawawa, Walioya",Graduated In University,Agriculture,41500,Public well,Not smoking,Yes,No,No,723685451,Yes
+Sriyantha Wijerathna,56,Male,"Weheragala ,Rajanaganaya",Has not gone to school.,Other,43500,Public well,Not smoking,No,Yes,Diabetes,756981253,Yes
+Somawathi,56,Female,"Ranawirugama, Weheragala , Thmbuthegama",OL,Other,24500,Public well,Not smoking,No,Yes,No,745698111,Yes
+Somapala,55,Male,Ikiriwawa Rd  Thmbuthegama,Has not gone to school.,Forces,65000,Public well,Smoking,Yes,Yes,No,785520369,Yes
+Sithari Karunarthna,48,Female,"Ihalapalugas Wawa, Rajanaganaya",AL,Other,25000,Public well,Smoking,Yes,Yes,No,746598235,Yes
+Sithara Samanmali,45,Female,"Kirigaswawa, Kahatgasdigiliya",AL,Agriculture,45000,Public well,Smoking,Yes,Yes,No,784532651,Yes
+Sithara Aberrathna ,44,Female,Track B  Padaviya,10 grade,Retired,29000,Tube well,Smoking,Yes,Yes,No,756984152,Yes
+Sisira,35,Male,"Walswawa ,Ipologama Anurdhapura",Has not gone to school.,Other,33000,Tube well,Smoking,Yes,Yes,Diabetes,773965862,Yes
+Siripala,58,Male,"Yaya Hathara ,Pahala Wawwa,Thmbuthegama",Has not gone to school.,Other,41000,Tube well,Not smoking,No,No,Diabetes,256974123,Yes
+Siril Jayakodi,46,Male,"Gamunupura, Rajanaganaya",Has not gone to school.,Agriculture,31000,Tube well,Not smoking,No,No,No,253659847,Yes
+Siril   Athukorala,58,Male,Track B  Padaviya,Has not gone to school.,Agriculture,31500,Tube well,Smoking,Yes,Yes,No,785236987,Yes
+Sheloton ,57,Male,"Thammenawa, Mihinthle,Anurdhapura",Has not gone to school.,Other,24500,Tube well,Smoking,Yes,Yes,No,714093625,Yes
+Shanthi    Nirupama,56,Female,"Kirigaswawa, Kahatgasdigiliya",AL,Other,27000,Tube well,Smoking,No,Yes,Pressure,712536987,Yes
+Senawirathna,57,Male,Ikiriwawa Rd  Thmbuthegama,Has not gone to school.,Other,32000,Tube well,Smoking,No,Yes,Pressure,77445512,Yes
+Sauneth  Widusara,38,Male,"  Akila Niwasa ,Balayawawa,  Pdawiya Rd  Padawiya",Has not gone to school.,Agriculture,24500,Tube well,Not smoking,No,Yes,Pressure,759630214,Yes
+Saranga Kalugalpitiya,58,Male,"Kumbukwawa,  Padaviya",Has not gone to school.,Agriculture,28000,Tube well,Not smoking,No,Yes,No,756987452,Yes
+Sandaya,49,Female,87 Digan Rd  Randenigama,OL,Other,34500,Tube well,Not smoking,No,Yes,No,723698547,Yes
+Sanath Priyashantha,43,Male,"Railway Town,Madawachiya",Has not gone to school.,Other,35000,Pipe Bourn,Not smoking,No,No,No,704696325,Yes
+Sanath Abesigha,74,Male,"Kuda Wawa  Kiriibban Wawa,Walioya",Has not gone to school.,Other,31500,Pipe Bourn,Not smoking,No,No,Diabetes,772489632,Yes
+Sampath  Kondasigha,35,Male,"Namalgamuwa, Ipalogama ,Anurdhapura",Has not gone to school.,Other,3000,Pipe Bourn,Not smoking,No,No,No,254178569,Yes
+Samira  Warapitiya,46,Male,"4kanuwa  Galenbidunuwawa, Anuradhapura",Has not gone to school.,Agriculture,37500,Pipe Bourn,Not smoking,No,Yes,No,712536897,Yes
+Sameera Rathnayaka,37,Male,"Budhagala Rd, Padaviya",Has not gone to school.,Agriculture,33000,Pipe Bourn,Smoking,Yes,Yes,Stress,745208964,Yes
+Samantha Jayaweera,59,Male,"Randenigama,Rajanaganaya",Has not gone to school.,Agriculture,32500,Pipe Bourn,Smoking,Yes,Yes,No,254563891,Yes
+Samantha Adhikari,53,Male,"Rathmalgahawawa, Kahatgasdigiliya",Has not gone to school.,Forces,71000,Pipe Bourn,Smoking,Yes,Yes,No,712069632,Yes
+Sajith Gowinna,59,Male,"Labunoruwa ,Thirippane",Has not gone to school.,Retired,19500,Pipe Bourn,Smoking,Yes,Yes,No,776078596,Yes
+Sadun Premarathna,42,Male,"Halagama, Mihinthle",Has not gone to school.,Agriculture,29000,Pipe Bourn,Smoking,No,No,Pressure,375770608,Yes
+Sachithra Harshani,53,Female,"Budhagala Rd, Padaviya",10 grade,Forces,63000,Pipe Bourn,Smoking,Yes,Yes,No,254896032,Yes
+Ruwan Gamage,43,Male,"Divuwawa,Kahatgasdigiliya",Has not gone to school.,Other,34000,Pipe Bourn,Smoking,Yes,Yes,No,742569321,Yes
+Roshan Gunawardhana,38,Male,"Labunoruwa ,Thirippane",Has not gone to school.,Forces,68000,Pipe Bourn,Smoking,No,No,Stress,785062063,Yes
+Roshan,36,Male,"Konwawa, Kahatgasdigiliya",Has not gone to school.,Forces,68000,Pipe Bourn,Smoking,Yes,Yes,Diabetes,755698231,Yes
+Rb Disanayaka,55,Male,"Ihalapalugas Wawa, Rajanaganaya",Has not gone to school.,Other,62000,Pipe Bourn,Smoking,Yes,Yes,Stress,755328912,Yes
+Ravindu Sankalpa,38,Male,"Negama, Ipologama, Anurdhapura",Has not gone to school.,Agriculture,39000,Pipe Bourn,Not smoking,Yes,No,No,751235698,Yes
+Rathnasiri,68,Male," Ihalala Kon Wawa, Konwawa, Thambuththegama",Has not gone to school.,Other,35000,Pipe Bourn,Smoking,Yes,No,Diabetes,728565878,Yes
+Rathnapala,53,Male,"Bulnewa, Iapalogama, Anurdhapura",Has not gone to school.,Agriculture,13000,Pipe Bourn,Smoking,Yes,No,Diabetes,758965210,Yes
+Rathanapala,67,Male,"Kandiya Mawatha, Delnegama,Thambuththegama",Has not gone to school.,Agriculture,38000,Pipe Bourn,Smoking,Yes,No,No,711506987,Yes
+Ranmanika  Ariyasena,35,Female,"Abayapura Rd,  Padaviya",Has not gone to school.,Agriculture,30000,private well,Smoking,Yes,Yes,No,756239854,Yes
+Ranjith Guruge,39,Male,"Walswawa ,Ipologama Anurdhapura",Has not gone to school.,Agriculture,40000,private well,Not smoking,No,Yes,Diabetes,745688258,Yes
+Ranhami,62,Male,"Nawagththa Para, Kakirawa.",Has not gone to school.,Other,37000,private well,Not smoking,No,Yes,Diabetes,783690852,Yes
+Ranga Bandara,52,Male,"Kuda Wawa  Kiriibban Wawa,Walioya",Has not gone to school.,Agriculture,35000,private well,Not smoking,No,No,No,749062541,Yes
+Ramya Subasini,50,Female,"Kattaragama,Iplogama,Anurdhapura",OL,Other,25000,private well,Not smoking,Yes,No,No,725068954,Yes
+Ramesh Piyathilaka,46,Male,"Labunoruwa ,Thirippane",Has not gone to school.,Agriculture,30000,private well,Smoking,Yes,Yes,No,745269874,Yes
+R.M.S Kodikara,48,Male,Track B  Padaviya,Has not gone to school.,Agriculture,40000,Tube well,Smoking,Yes,Yes,No,728093214,Yes
+R.M Subasigha ,48,Male,"Kala Gama, Thmbuthegam",Has not gone to school.,Other,20000,private well,Smoking,Yes,Yes,No,703259796,Yes
+Pushpika,49,Female,"Ikiriwawa Rd ,Thambuththegama",AL,Retired,30000,private well,Smoking,Yes,Yes,Pressure,774503896,Yes
+Priyantha,65,Male,"Hadungama, Ipalogama, Anurdhapura",Has not gone to school.,Other,45000,private well,Smoking,Yes,Yes,,774583692,Yes
+Premawathi ,65,Female,"Ihalapalugas Wawa, Rajanaganaya",OL,Other,35000,private well,Smoking,Yes,Yes,No,746256898,Yes
+Premathilaka,52,Male,Track B  Padaviya,Has not gone to school.,Other,30000,private well,Not smoking,Yes,No,,714069658,Yes
+Premarthna,47,Male,"Ranasigha Mawatha, Jayasirigama, Thambuththegama",Has not gone to school.,Agriculture,40000,Public well,Not smoking,Yes,No,Diabetes,714096058,Yes
+Prasad Dayananda,37,Male,"Thammenawa, Mihinthle,Anurdhapura",Has not gone to school.,Agriculture,30000,Public well,Smoking,Yes,No,,763025489,Yes
+Prasad  Disanayaka,37,Male,"Negama, Ipologama, Anurdhapura",Has not gone to school.,Other,50000,private well,Smoking,Yes,Yes,,745628947,Yes
+Piyasili Rajakaruna,34,Female,,AL,Other,40000,Public well,Smoking,Yes,Yes,,728205575,Yes
+Piyasena,50,Male,Digana  Rd Raandenigma ,Has not gone to school.,Other,35000,Public well,Smoking,Yes,Yes,Diabetes,788904565,Yes
+Piyal  Rupasigha ,45,Male,"Ketuwela,Madawachiya,",Has not gone to school.,Other,25000,Public well,Not smoking,Yes,No,Diabetes,708456589,Yes
+Piyadasa Rajapaksha,64,Male,"Ihlagama, Nikawawa,Walioya",Has not gone to school.,Forces,63000,private well,Smoking,Yes,Yes,No,789864215,Yes
+Palitha Karunarthna,50,Male,"Ihlagama, Nikawawa,Walioya",Has not gone to school.,Agriculture,40000,Pipe Bourn,Smoking,Yes,Yes,No,754326985,Yes
+Padma,55,Female,"Jankapura, Nikawawa, Walioya",AL,Other,20000,private well,Smoking,Yes,Yes,No,784529887,Yes
+"P.D,Punchimanika",36,Female,"Abayapura Rd,  Padaviya",OL,Retired,19000,Public well,Smoking,Yes,Yes,Pressure,778526932,Yes
+Nuwan Prasad,26,Male,"Nuwarawewa, Mihinthale",Has not gone to school.,Other,29000,private well,Not smoking,Yes,No,No,724506806,Yes
+Nuwan Pradip,50,Male,"Rathmalgahawawa, Kahatgasdigiliya",Has not gone to school.,Other,31500,private well,Not smoking,Yes,Yes,No,789986650,Yes
+Nuwan   Premathilak,45,Male,"Bulnewa, Iapalogama, Anurdhapura",Has not gone to school.,Other,32000,Public well,Smoking,Yes,Yes,No,723668712,Yes
+Nishantha Rajakaruna,56,Male,"Rathmalgahawawa, Kahatgasdigiliya",Has not gone to school.,Other,27000,private well,Not smoking,No,No,No,759966305,Yes
+Nishan Malinda Pathirage,50,Male,"Jaya Mawatha ,Palugaswawa,Mahavilachchiya",Has not gone to school.,Other,33000,Public well,Not smoking,Yes,No,No,746603857,Yes
+Nirosha Wimaladhrama,53,Female,"Kirigaswawa, Kahatgasdigiliya",AL,Other,34000,Public well,Not smoking,No,No,Pressure,724306662,Yes
+Niranjala Rathnayaka,50,Female,"Kattaragama,Iplogama,Anurdhapura",OL,Retired,31500,Public well,Not smoking,No,No,Pressure,784356897,Yes
+Nipuna Sadaklum,30,Male,"77 Digana Mawatha, Pahalagama Mawatha, Thambuththegama",Has not gone to school.,Other,34500,private well,Not smoking,Yes,No,Pressure,723815287,Yes
+Nimanthi ,28,Female,"Doramadalawa,Mihinthle",OL,Retired,34500,private well,Not smoking,No,Yes,Pressure,756900870,Yes
+Nimali ,33,Female,"   Ranawiru Mawatha ,Mahasepura  , Padaviya ",OL,Other,41500,Public well,Not smoking,No,Yes,Pressure,256598743,Yes
+Nimal Premadasa,47,Male,"Ketuwela,Madawachiya,",Has not gone to school.,Other,34500,Public well,Not smoking,No,Yes,No,753569852,Yes
+Nimal,56,Male,"Bulnewa, Iapalogama, Anurdhapura",Has not gone to school.,Other,29000,Public well,Not smoking,No,Yes,No,748565698,Yes
+Nill Wijerathna,56,Male,"Yakawewa, Madawachiya",Has not gone to school.,Other,30000,private well,Smoking,Yes,Yes,No,742568965,Yes
+Nihal  Jayawardana,30,Male,"Lindawewa, Madawachiya",Has not gone to school.,Other,37000,Public well,Smoking,Yes,Yes,Pressure,785566798,Yes
+Nihal  Jayashantha,55,Male," Ihalala Kon Wawa, Konwawa, Thmbuthegama",Has not gone to school.,Other,39000,Public well,Smoking,Yes,Yes,No,701459865,Yes
+Neranjala ,50,Female,"Doramadalawa,Mihinthle",,Agriculture,44000,Public well,Smoking,Yes,Yes,No,704561589,Yes
+Narada  Kasun,45,Male,"Halagama, Mihinthle",Has not gone to school.,Agriculture,39000,Public well,Smoking,No,Yes,Pressure,705859874,Yes
+Namal  Gunasekara ,53,Male,"Ketuwela,Madawachiya,",Has not gone to school.,Agriculture,34500,Public well,Smoking,Yes,Yes,No,708574125,Yes
+Nalin Pushpakumara,43,Male,"Konwawa, Kahatgasdigiliya",Has not gone to school.,Agriculture,40000,Public well,Smoking,Yes,Yes,Diabetes,753261059,Yes
+Nalaka,39,Male,"Walswawa ,Ipologama Anurdhapura",Has not gone to school.,Forces,78000,Tube well,Smoking,Yes,Yes,Diabetes,752164970,Yes
+N.P.R.P.Pathiran,38,Male,"Sirimapura,Rajanaganaya",Has not gone to school.,Other,31000,private well,Not smoking,No,Yes,No,754565314,Yes
+Muthubanda,70,Male," Ihalala Kon Wawa, Konwawa, Thmbuthegama",Has not gone to school.,Agriculture,30000,Public well,Not smoking,No,No,Diabetes,773256974,Yes
+Mudiyanse,70,Male,"Ruwanpura Rd, Padaviya",Has not gone to school.,Forces,51500,Public well,Not smoking,No,No,No,786562147,Yes
+Mohomdad Nazim ,45,Male,"4kanuwa  Galenbidunuwawa, Anuradhapura",Has not gone to school.,Retired,35000,private well,Not smoking,No,No,Pressure,784593214,Yes
+Mohomad Ismail,65,Male,"Gamunupura, Rajanaganaya",Has not gone to school.,Agriculture,19500,Public well,Not smoking,No,No,Pressure,781265981,Yes
+Mohomad Aslam,34,Male,"Adikarigama ,Ihala Iwura ,Rajanganaya",Has not gone to school.,Other,35500,Public well,Not smoking,No,No,Stress,786936257,Yes
+Mihiri Senanayaka,28,Female,"Wahalkada D01, Wahalkada ,Horowpothana",AL,Agriculture,41000,private well,Not smoking,No,No,No,786516932,Yes
+Mihiri ,42,Female,"Mahakubuk Wawa, Kahatagasgigiliya",10 grade,Other,31000,Public well,Not smoking,No,Yes,No,786326594,Yes
+Menaka Subasigha,40,Female,"89 Pahankandiya,Kumbukwawa , ",OL,Other,51000,Public well,Smoking,Yes,No,No,789168632,Yes
+Manjula  Kumarasiri,57,Male,"17  Naigala , Rajanganaya",Has not gone to school.,Forces,37500,Public well,Smoking,Yes,No,Stress,789562352,Yes
+Manju Subasigha,63,Male,"Randenigama,Rajanaganaya",Has not gone to school.,Agriculture,33000,Public well,Not smoking,Yes,No,Stress,786598326,Yes
+Manel  Kumudukumari,35,Female,"   Ihala Uswawa Rd , Siyabalagaswawa  Wawa ,Rembawa",AL,Agriculture,32500,Public well,Not smoking,Yes,Yes,Pressure,714582691,Yes
+Malinda ,45,Male,"Namalgamuwa, Ipalogama ,Anurdhapura",Has not gone to school.,Other,31000,Public well,Smoking,Yes,Yes,No,754856398,Yes
+Mahinda Bakmiwawa,54,Male,"Kala Gama, Thmbuthegam",Has not gone to school.,Agriculture,19500,private well,Smoking,Yes,No,Pressure,772358925,Yes
+Mahesh Jayakodi,56,Male,"Thissapura, Rajanaganaya",Has not gone to school.,Agriculture,29000,Tube well,Smoking,Yes,Yes,No,776552148,Yes
+Mahesh Chathuranga,59,Male,"Budhagala Rd, Padaviya",Has not gone to school.,Agriculture,33000,Tube well,Smoking,No,Yes,Pressure,756908237,Yes
+Madana Karunnayaka,53,Male,"Weheragala ,Rajanaganaya",Has not gone to school.,Forces,57000,Tube well,Smoking,Yes,Yes,No,775794296,Yes
+Layanal Gunawardana,30,Male,"Jaya Niwasa,Ihala Iwura ,Rajanganaya",Has not gone to school.,Agriculture,20000,Tube well,Smoking,Yes,Yes,No,775698237,Yes
+Lasitha Krunanayaka,46,Male,"Pansala Para ,Rambawa",Has not gone to school.,Agriculture,19000,Tube well,Smoking,Yes,No,Stress,775689120,Yes
+Lasantha Thennakoon,56,Male,"Pothana, Mihinthale",Has not gone to school.,Agriculture,50000,Public well,Smoking,Yes,No,Stress,774586392,Yes
+Lalith Mudalige,50,Male,"Pansala Para ,Rambawa",Has not gone to school.,Agriculture,39000,Tube well,Smoking,Yes,No,Pressure,776584525,Yes
+Lakshitha Adhikari,34,Male,"Walpola, Madawachchiya",Has not gone to school.,Agriculture,19000,Tube well,Not smoking,No,No,No,758569871,Yes
+Lakshitha  Mahesh,30,Male,"Nuwarawewa, Mihinthale",Has not gone to school.,Retired,28000,Tube well,Not smoking,No,No,Pressure,745693265,Yes
+Kusumawathi,72,Female,"Kumbukwawa,  Padaviya",Has not gone to school.,Retired,30000,private well,Not smoking,No,No,No,774308945,Yes
+Kumari  Gurusigha,45,Female,"Kattaragama,Iplogama,Anurdhapura",OL,Other,25000,Tube well,Not smoking,No,No,No,768194563,Yes
+Kumari ,48,Female,"Kala Gama, Thmbuthegam",AL,Retired,20000,Tube well,Not smoking,No,No,Pressure,759631897,Yes
+Kumara Rathnayaka,55,Male,"Nuwarawewa, Mihinthale",Has not gone to school.,Retired,25000,private well,Not smoking,No,No,Pressure,713697845,Yes
+Krishantha,43,Male,"Palamu Patumaga , Udahagama Rd , Thmbuththegama",Has not gone to school.,Retired,27500,Public well,Not smoking,No,No,No,257896357,Yes
+Kosala Disanayaka,45,Male,"Kuda Wawa  Kiriibban Wawa,Walioya",Has not gone to school.,Retired,20000,Tube well,Not smoking,No,Yes,No,716988789,Yes
+Kiribanda Appuhami,48,Male,"Yakawewa, Madawachiya",Has not gone to school.,Other,27000,Tube well,Smoking,Yes,No,Pressure,784852569,Yes
+Karunawathi,57,Female,"  Yaya Thuna Para ,Kalagama  Thmbuthegama",OL,Other,40000,Tube well,Smoking,Yes,Yes,No,753698569,Yes
+Karunapala,65,Male,"Kumbukwawa,  Padaviya",Has not gone to school.,Other,37000,Tube well,Smoking,Yes,No,Stress,726482560,Yes
+Kapila Jayasigha,55,Male,"Kuda Wawa  Kiriibban Wawa,Walioya",Has not gone to school.,Other,30000,Tube well,Smoking,No,Yes,No,758565368,Yes
+Kanthi ,50,Female,"Kirigaswawa, Kahatgasdigiliya",AL,Other,37000,Tube well,Smoking,No,Yes,No,756930645,Yes
+Kalpani ,50,Female,"Jankapura, Nikawawa, Walioya",10 grade,Agriculture,33000,private well,Smoking,No,No,Pressure,772359656,Yes
+K.P Rohana ,55,Male,"Ranawirugama, Weheragala ,Thambuththegama",Has not gone to school.,Agriculture,27000,private well,Smoking,No,Yes,Stress,774526589,Yes
+K.L.D. Silva,47,Female,"Ruwanpura Rd, Padaviya",OL,Agriculture,22000,private well,Smoking,Yes,No,Stress,778565326,Yes
+K.A  Kanthi,60,Female,"Jankapura, Nikawawa, Walioya",OL,Agriculture,25000,private well,Smoking,Yes,No,Pressure,777525680,Yes
+Jp Indrawathi,63,Female,"Abayapura Rd,  Padaviya",09 grade,Agriculture,30000,private well,Not smoking,No,No,Pressure,756232850,Yes
+Jayasena,58,Male,"Kandiya Mawatha, Delnegama, Thambuththegama",Has not gone to school.,Other,50000,private well,Not smoking,No,No,Stress,706485240,Yes
+Jayantha   Herath,43,Male,"Railway Town,Madawachiya",Has not gone to school.,Other,45000,private well,Not smoking,No,Yes,No,705260412,Yes
+Jayantha,52,Male,"Uthuru Iwura ,Randenigama, Rajanganaya",Has not gone to school.,Agriculture,40000,private well,Not smoking,No,Yes,Diabetes,708965412,Yes
+Janaka  Rathnayaka,45,Male,"Thissapura, Rajanaganaya",Has not gone to school.,Other,32500,private well,Smoking,No,Yes,No,775689740,Yes
+Insaf Majid ,43,Male,"Katiyawa Track 01, Thalawa",Has not gone to school.,Other,30000,private well,Not smoking,No,Yes,Diabetes,778954203,Yes
+Inoka,54,Female,"Jankapura, Nikawawa, Walioya",Graduated In University,Agriculture,25000,private well,Smoking,No,Yes,No,782568956,Yes
+Indrani,53,Female,"Nawagaha Hena Rd  , Rajanaganaya ",AL,Retired,30000,private well,Not smoking,No,No,No,774532560,Yes
+Indrajith  Guruge,36,Male,"Walpola, Madawachchiya",Has not gone to school.,Other,35000,private well,Not smoking,No,No,Pressure,769631250,Yes
+Indika Pathirana,38,Male,"Bogas Junction ,Hirigollegama ,Thalawa",Has not gone to school.,Agriculture,40000,Tube well,Not smoking,No,No,No,745128590,Yes
+Indika ,36,Male,"11 Uthuru Yaya , Padawiya",Has not gone to school.,Other,45000,Tube well,Not smoking,Yes,No,No,775689237,Yes
+Hinappu Rajapaksha,63,Male,"Ranawirugama, Weheragala ,Thambuththegama",Has not gone to school.,Other,40000,Public well,Not smoking,Yes,No,Diabetes,789632560,Yes
+Hemantha,50,Male,"Ihlagama, Nikawawa,Walioya",Has not gone to school.,Other,35000,private well,Not smoking,No,No,No,258963251,Yes
+Hemalatha,57,Female,Ikiriwawa Rd  Thmbuthegama,AL,Forces,75000,private well,Smoking,No,Yes,Pressure / diabetes,772583698,Yes
+Gunapala,62,Male," Ihalala Kon Wawa, Konwawa, Thambuththegama",Has not gone to school.,Agriculture,35000,private well,Not smoking,No,Yes,No,745698532,Yes
+Gunabanda,59,Male,"Kumbukwawa,  Padaviya",Has not gone to school.,Agriculture,45000,private well,Smoking,Yes,Yes,No,778104523,Yes
+Gayantha  Premathilaka,36,Male,"Budhagala Rd, Padaviya",Has not gone to school.,Agriculture,45000,private well,Smoking,Yes,Yes,No,774568974,Yes
+Gayan Ranaweera,30,Male,"Nuwarawewa, Mihinthale",Has not gone to school.,Agriculture,30000,private well,Smoking,Yes,Yes,Pressure,772546859,Yes
+Gayan  Mayadunne,48,Male,"Divuwawa,Kahatgasdigiliya",Has not gone to school.,Agriculture,35000,private well,Smoking,Yes,Yes,No,754829860,Yes
+Gamini Thilakarthna,50,Male,"Gamunupura, Rajanaganaya",Has not gone to school.,Other,50000,private well,Not smoking,No,No,Pressure,784105236,Yes
+Gamini  Jayakodi,47,Male,"Lindawewa, Madawachiya",Has not gone to school.,Forces,80000,Public well,Not smoking,No,No,No,775632142,Yes
+Gamini ,45,Male," 16 Sabapathi Mawath,Udahagama ,Thmbuththegama",Has not gone to school.,Other,40000,Public well,Not smoking,No,No,Diabetes,774215069,Yes
+G.R. Kumarihami ,49,Female,"Abayapura Rd,  Padaviya",09 grade,Other,30000,Public well,Not smoking,No,No,Pressure,258234561,Yes
+Fathima Rukshana,45,Female,"  77 School Rd, Thalawa",OL,Agriculture,35000,Public well,Not smoking,Yes,Yes,Pressure,745239632,Yes
+Disna   Jayaweera,36,Female,,AL,Agriculture,50000,Public well,Not smoking,Yes,Yes,Stress,373104697,Yes
+Dinesh   Chandrasekara,32,Male,"Divuwawa,Kahatgasdigiliya",Has not gone to school.,Other,40000,private well,Not smoking,Yes,Yes,Stress,782596310,Yes
+Dilini  Thushara,56,Female,"Mahakubuk Wawa, Kahatagasgigiliya",AL,Agriculture,30000,Public well,Not smoking,Yes,Yes,Pressure,752083940,Yes
+Dilantha Siriwardhana,43,Male,"Konwawa, Kahatgasdigiliya",Has not gone to school.,Agriculture,50000,private well,Not smoking,Yes,Yes,Pressure,713259860,Yes
+Dhammi,50,Female,"Mahakubuk Wawa, Kahatagasgigiliya",OL,Agriculture,40000,Public well,Smoking,Yes,Yes,Pressure,742501258,Yes
+Dayasiri ,54,Male,"Yaya Hathara ,Pahala Wawwa,Thambuththegama",Has not gone to school.,Agriculture,35000,Public well,Smoking,No,Yes,,714563982,Yes
+Dayarathna,49,Male,"65/1   Palamu Haras Widiya ,Kirigaswawa ,Kahatgasdigiliya",Has not gone to school.,Other,25000,Public well,Smoking,Yes,Yes,Pressure,772365970,Yes
+Darshana ,54,Male,"Namalgamuwa, Ipalogama ,Anurdhapura",Has not gone to school.,Agriculture,30000,private well,Smoking,Yes,Yes,,785282154,Yes
+Danapala,56,Male,"Yaya Hathara ,Pahala Wawwa,Thmbuthegama",Has not gone to school.,Agriculture,40000,private well,Smoking,Yes,Yes,,775628956,Yes
+Daglus  Jayaweera,35,Male,"Ranawirugama, Weheragala , Thmbranawirugama, Weheragala , Thmbuthegama",Has not gone to school.,Agriculture,20000,Public well,Smoking,Yes,Yes,Pressure,256879415,Yes
+Chuthura  Premalal,35,Male,"Budhagala Rd, Padaviya",Has not gone to school.,Agriculture,30000,Public well,Smoking,Yes,Yes,Pressure,774693256,Yes
+Chathuranga  Senawirathna,47,Male,"Ketuwela,Madawachiya,",Has not gone to school.,Other,45000,Public well,Smoking,Yes,Yes,,775268745,Yes
+Chandrasena Karunarthna,50,Male,"Weheragala ,Rajanaganaya",Has not gone to school.,Forces,65000,Public well,Smoking,Yes,Yes,Pressure,780986578,Yes
+Chandrasena Bandara,45,Male,"Lindawewa, Madawachiya",Has not gone to school.,Agriculture,35000,Public well,Smoking,Yes,Yes,No,255868921,Yes
+Chandana Ekanayaka,56,Male,"Gamunupura, Rajanaganaya",Has not gone to school.,Other,40000,private well,Not smoking,No,No,No,775283698,Yes
+Chandana,50,Male,"Konwawa, Kahatgasdigiliya",Has not gone to school.,Other,30000,private well,Not smoking,No,No,Pressure,718292532,Yes
+Chaminda Kurunaraththna,50,Male,"Railway Town,Madawachiya",Has not gone to school.,Retired,32500,private well,Not smoking,No,No,Diabetes,255257079,Yes
+Chamila Sanjaya,49,Male,"Pothana, Mihinthale",Has not gone to school.,Other,20000,private well,Not smoking,No,No,Diabetes,704258547,Yes
+Chamila Abeyrathna,48,Male,"Thissapura, Rajanaganaya",Has not gone to school.,Agriculture,20000,private well,Not smoking,No,No,Pressure / diabetes,758757449,Yes
+Chamary Disanayaka,37,Female,"Budhagala Rd, Padaviya",OL,Retired,35000,private well,Not smoking,No,No,Pressure,774215689,Yes
+Chamara Madusanka,37,Male,"Doramadalawa,Mihinthle",Has not gone to school.,Other,35000,private well,Not smoking,No,No,Pressure,258741525,Yes
+Chamara Madubashana,44,Male,"Namalgamuwa, Ipalogama ,Anurdhapura",Has not gone to school.,Retired,30000,private well,Smoking,No,Yes,Diabetes,378956214,Yes
+Buddhika Jayamali,55,Female,"Jankapura, Nikawawa, Walioya",OL,Agriculture,35000,Public well,Smoking,Yes,No,Diabetes,776598214,Yes
+Bhagaya  Hittiarachi,38,Female,"4kanuwa  Galenbidunuwawa, Anuradhapura",OL,Agriculture,35000,Public well,Smoking,Yes,Yes,Pressure,774532769,Yes
+Ayomi ,53,Female,"Kirigaswawa, Kahatgasdigiliya",OL,Forces,65000,Public well,Smoking,No,Yes,No,254896531,Yes
+Ayoma  Herath,37,Female,,OL,Forces,60000,Public well,Smoking,Yes,Yes,No,778492563,Yes
+Ayeshani Naranjana,35,Female,"Kattaragama,Iplogama,Anurdhapura",Graduated In University,Agriculture,30000,Tube well,Smoking,Yes,Yes,No,778102563,Yes
+Athula,38,Male,"4kanuwa  Galenbidunuwawa, Anuradhapura",Has not gone to school.,Agriculture,30000,Public well,Smoking,Yes,Yes,Pressure,754105236,Yes
+Asitha Gunasekara,35,Male,"Pothana, Mihinthale",Has not gone to school.,Agriculture,20000,Public well,Smoking,Yes,Yes,Stress,781045623,Yes
+Asiri Sadaruwan,48,Male,"Pansala Para ,Rambawa",Has not gone to school.,Agriculture,30000,Tube well,Smoking,Yes,Yes,Pressure,775689140,Yes
+Ashoka   Ranasigha,53,Female,"Wali Oya Kalyanipura , Walioya",OL,Other,35000,Public well,Not smoking,Yes,Yes,No,745612370,Yes
+Asela Preamathilaka,40,Male,"21 Colony East, 21 Colony ,Galenbidunuwawa",Has not gone to school.,Other,40000,Pipe Bourn,Not smoking,Yes,Yes,No,768724563,Yes
+Asanka Priyadarshana,56,Male,"Yakawewa, Madawachiya",Has not gone to school.,Other,35000,private well,Not smoking,Yes,Yes,Pressure,257863985,Yes
+Arjuna ,55,Male,"Wali Oya Kalyanipura , Walioya",Has not gone to school.,Other,38000,Public well,Not smoking,No,No,No,768104348,Yes
+Ariyapala ,66,Male,"Randenigama,Rajanaganaya",Has not gone to school.,Agriculture,40000,Tube well,Smoking,Yes,Yes,No,703569865,Yes
+Ariyadasa,55,Male,Track B  Padaviya,Has not gone to school.,Agriculture,40000,Tube well,Smoking,Yes,Yes,No,785374589,Yes
+Appuhami,52,Male,"Yaya Hathara ,Pahala Wawwathambuththegama",Has not gone to school.,Other,25000,private well,Smoking,Yes,Yes,No,719653215,Yes
+Anura Rajapaksha,36,Male,"Thammenawa, Mihinthle,Anurdhapura",Has not gone to school.,Agriculture,20000,private well,Smoking,Yes,Yes,No,761289571,Yes
+Anura Mudalige,35,Male,"Pansala Para ,Rambawa",Has not gone to school.,Agriculture,40000,Public well,Smoking,No,Yes,No,254986205,Yes
+Anulawathi,59,Female,"Jankapura, Nikawawa, Walioya",AL,Agriculture,40000,Tube well,Not smoking,Yes,Yes,No,774568923,Yes
+Anula,49,Female,Ikiriwawa Rd  Thmbuthegama,AL,Other,30000,Public well,Not smoking,No,No,No,254056398,Yes
+Anoma Jayasiri,50,Female,"Ihalapalugas Wawa, Rajanaganaya",Graduated In University,Other,40000,private well,Not smoking,No,No,No,713245807,Yes
+Anoma  Rajakaruna,59,Female,"Ihalapalugas Wawa, Rajanaganaya",09 grade,Other,35000,Tube well,Not smoking,No,No,Pressure,254732571,Yes
+Annada   Jayasundara,57,Male,"Delnegama, Thmbuthegama",Has not gone to school.,Other,45000,private well,Not smoking,No,No,No,774592531,Yes
+Anjana Frando,35,Male,"Pola Rd ,  Thambuthegama",Has not gone to school.,Other,45000,Public well,Not smoking,No,No,Pressure,258569632,Yes
+Anjana Darmasena,49,Male,"Pansala Para ,Rambawa",Has not gone to school.,Agriculture,50000,Tube well,Smoking,No,Yes,No,766232707,Yes
+Anjali,56,Female,"Jankapura, Nikawawa, Walioya",OL,Agriculture,55000,Tube well,Not smoking,No,Yes,No,754795507,Yes
+Anil Gunasekara,56,Male,"Gamunupura, Rajanaganaya",Has not gone to school.,Agriculture,50000,Public well,Smoking,Yes,Yes,No,756806350,Yes
+Ananda Rajapaksha,64,Male,"Ranawirugama, Weheragala , Thmbuthegama",Has not gone to school.,Other,36000,private well,Smoking,Yes,Yes,No,728928925,Yes
+Amila Bandara,56,Male,"Divuwawa,Kahatgasdigiliya",Has not gone to school.,Other,42000,private well,Smoking,Yes,Yes,No,754438705,Yes
+Amaya Kalpani,53,Female,"Kumbukwawa,  Padaviya",AL,Other,60000,Public well,Smoking,Yes,Yes,Stress,715609583,Yes
+Amalila Prasad ,47,Male,33B Kirigaswawa Rd Kahatgasdigiliya,Has not gone to school.,Other,40000,Tube well,Smoking,Yes,Yes,Pressure,782381158,Yes
+Amali Karunanayaka,44,Female,"Ikiriwewa,Thambuttegama",10 grade,Agriculture,65000,private well,Smoking,Yes,Yes,No,773425997,Yes
+Akila Werakon,25,Male,"Ihalagalagedara Gama,Galagadara Gama Rd, Ipologama",Has not gone to school.,Other,30000,Public well,Not smoking,No,Yes,No,256598740,Yes
+Ajith Surasena,49,Male,"Yaya 24 , Ihala Waw Iwura, Rajanganay",Has not gone to school.,Agriculture,45000,Public well,Not smoking,No,Yes,Stress,754960158,Yes
+Ajith Kularathna,54,Male,"Rathmalgahawawa, Kahatgasdigiliya",Has not gone to school.,Other,55000,private well,Smoking,No,Yes,Pressure,255689120,Yes
+Ajanaka  Priyalal,40,Male,Ruwanpura Rd Padaviya,Has not gone to school.,Other,20000,Pipe Bourn,Not smoking,No,Yes,Diabetes,745698192,Yes
+Abeyrathna,60,Male,"Ruwanpura Rd, Padaviya",Has not gone to school.,Other,25000,Tube well,Not smoking,No,No,No,784236890,Yes
+Sumeda Jayakodi,54,Male,"Walpola, Madawachchiya",Has not gone to school.,Other,50000,Pipe Bourn,Not smoking,Yes,Yes,Pressure,758596201,Yes
+J.D. Piyasoma ,50,Male,"Weheragala ,Rajanaganaya",Has not gone to school.,Forces,65000,private well,Smoking,Yes,Yes,Pressure,714885623,Yes
+ Suraweera,44,Male,"Pothana, Mihinthale",Has not gone to school.,Agriculture,40000,Public well,Smoking,Yes,Yes,No,778596127,Yes
+ A.D. Abeyrathana,64,Male," Delnegama, Thambuththegama",Has not gone to school.,Other,50000,Public well,Smoking,Yes,Yes,No,701455896,Yes
+ K.D. Sugathapalara ,54,Male,"Adipara 4,   Rajanganaya",Has not gone to school.,Other,45000,Public well,Smoking,Yes,No,No,774512356,Yes
+ R.S.Rathnamalla,39,Male,"2 Colony East,Rajanganaya",Has not gone to school.,Retired,36000,private well,Not smoking,Yes,No,No,712938379,No
+ P.Hakurusigha,41,Male,"Gamunupura, Rajanaganaya",Has not gone to school.,Agriculture,35000,private well,Smoking,Yes,No,No,715588169,No
+ Sahan,25,Male,"Ipologama, Anurdhapura",Has not gone to school.,Other,19000,Public Well,Smoking,No,Yes,No,715117823,No
+ Samatha jayasekara ,42,Male,"Thammenawa, Mihinthle,Anurdhapura",Has not gone to school.,Agriculture,21000,Public Well,Smoking,No,Yes,No,94766232707,No
+Abdul ,47,Male,"Kattaragama,Iplogama,Anurdhapura",Has not gone to school.,Agriculture,24000,Public Well,Not smoking,No,Yes,No,94772768964,No
+Abdul ,50,Male,"Wali Oya Kalyanipura , Walioya",Has not gone to school.,Agriculture,35000,Tube Well,Smoking,No,Yes,No,94772877903,No
+Ajantha  Ramanayaka,40,Male,"Jankapura, Nikawawa, Walioya",Has not gone to school.,Agriculture,32000,Tube Well,Smoking,Yes,No,No,728770640,No
+Akaila Subashini,41,Female,"Pothana, Mihinthale",OL,Agriculture,35000,Tube Well,Not smoking,Yes,No,Pressure,785282154,No
+Akila,44,Male,"Walswawa ,Ipologama Anurdhapura",Has not gone to school.,Agriculture,25000,Tube Well,Smoking,No,No,No,722669296,No
+Amal,32,Male,"Doramadalawa,Mihinthle",Has not gone to school.,Clerical,29000,Pipe Bourn,Not smoking,No,Yes,No,771662730,No
+Amal Rajakaruna,26,Male,"Delnegama, Thmbuthegama",Has not gone to school.,Forces,62500,private well,Not smoking,Yes,No,No,786556895,No
+Amanda Herath,38,Female,"Wahalkada D01, Wahalkada ,Horowpothana",OL,Clerical,37000,private well,Not smoking,No,No,No,786203600,No
+Amara ,59,Female," 221 ,Thissapura  Rd  Thambutheagama",09 Grade,Agriculture,28500,Pipe Bourn,Not smoking,No,Yes,Diabetes,94711491648,No
+Amaya,34,Female,"Rathmalgahawawa, Kahatgasdigiliya",OL,Agriculture,38000,Pipe Bourn,Not smoking,No,Yes,No,94767426922,No
+Amila,29,Male,"Konwawa, Thambuththegama",Has not gone to school.,Forces,49000,Public Well,Smoking,No,Yes,No,773173167,No
+Amila Kawinda,39,Male,"Ihalala Kon Wawa,",Has not gone to school.,Forces,70000,private well, Smoking,Yes,No,No,777700380,No
+Anjali,38,Female," Uthuru Yaya  Kubukwawa, Padaviya",Al,Clerical,40000,private well,Not smoking,No,Yes,No,94758913721,No
+Anjali,45,Female,"Randenigama,Rajanaganaya",Al,Other,33000,Pipe Bourn,Not smoking,No,Yes,No,94711444048,No
+Anjana Karunarthana,38,Male,"Wali Oya Kalyanipura , Walioya",Has not gone to school.,Clerical,37000,Public Well,Smoking,Yes,No,No,256879415,No
+Anjula,44,Female,"Kandiya Mawatha, Delnegama, Thmbuthegama",OL,Labor,27000,Public Well,Not smoking,No,Yes,No,94767879792,No
+Anjula ramanayaka,37,Female,"22 Colony East,Rajanganaya",Al,Other,45000,Public Well,Not smoking,Yes,No,No,752286246,No
+Annada  preemarthna,56,Male,Track B  Padaviya,Has not gone to school.,Agriculture,33000,Pipe Bourn,Not smoking,No,Yes,No,94716297584,No
+Annnada,47,Male,"Weheragala ,Rajanaganaya",Has not gone to school.,Agriculture,27000,Pipe Bourn,Not smoking,No,Yes,No,94754795507,No
+Anulawathi ,61,Female,"Thammenawa, Mihinthle,Anurdhapura",02 Grade,Agriculture,30000,private well,Not smoking,Yes,No,No,771287904,No
+Anura ,49,Male,"Ihalapalugas Wawa, Rajanaganaya",Has not gone to school.,Agriculture,28000,Pipe Bourn,Not smoking,No,Yes,No,94716500210,No
+Anura premalal,45,Male,"Pansala Para ,Rambawa",Has not gone to school.,Agriculture,27000,private well,Not smoking,Yes,No,No,778281877,No
+Apsara,39,Female,"Walpola, Madawachchiya",Al,Clerical,37000,private well,Not smoking,No,Yes,No,94714326830,No
+Ashan Karunathilaka,26,Male,"    Siyabalagaswawa  Wawa ,Rembawa",Has not gone to school.,Agriculture,22000,Pipe Bourn,Smoking,No,No,No,712356784,No
+Ashan Kawinda,31,Male,"Gamunupura, Rajanaganaya",Has not gone to school.,Forces,77000,private well,Smoking,No,No,No,717060300,No
+Ashok ,42,Male,"Walpola, Madawachchiya",Has not gone to school.,Forces,47500,Pipe Bourn,Smoking,No,Yes,No,,No
+Asiri Kumra,56,Male,"Konwawa, Kahatgasdigiliya",Has not gone to school.,Retired,27000,Tube Well,Smoking,No,Yes,No,94755894059,No
+Asitha Kasanjana,37,Male,"Kuda Wawa  Kiriibban Wawa,Walioya",Has not gone to school.,Agriculture,31500,Public Well,Not smoking,No,Yes,No,777192785,No
+Athula Preamalal,43,Male,"Yakawewa, Madawachiya",Has not gone to school.,Agriculture,25000,Pipe Bourn,Not smoking,Yes,No,No,779857861,No
+Awantha,31,Male," Delnegama, Thambuththegama",Has not gone to school.,Forces,60000,Tube Well,Not smoking,Yes,No,No,258234561,No
+Awishaka,24,Male,"Bulnewa, Iapalogama, Anurdhapura",Has not gone to school.,Other,45000,Tube Well,Not smoking,Yes,No,No,788832008,No
+Bhagya,34,Female,"Abayapura ,  Padaviya",OL,Clerical,30000,Tube Well,Not smoking,No,Yes,Pressure,94782381158,No
+Chamaila Jayasigha,44,Male,"Wihara Mawatha, Ihala Kirigas Wawa, Kirigaswawa,Kahatagasdigiliya",Has not gone to school.,Forces,65000,Tube Well,Not smoking,Yes,No,No,724872434,No
+Chamara ,46,Male,"Ketuwela,Madawachiya,",Has not gone to school.,Other,35000,private well, Smoking,Yes,No,No,718966306,No
+Chamara Silva,40,Male,"Kiwulegama, Thambuthegama",Has not gone to school.,Agriculture,35000,Pipe Bourn,Not smoking,No,Yes,No,723490046,No
+Chandra ,63,Female,"Thammenawa, Mihinthle,Anurdhapura",08  Grade,Agriculture,32500,private well,Not smoking,No,Yes,Diabetes,94712594562,No
+Chathura,28,Male,"Lindawewa, Madawachiya",Has not gone to school.,Clerical,25000,private well,Not smoking,Yes,No,No,775542955,No
+Chesika ,37,Male,"Thammenawa, Mihinthle,Anurdhapura",Has not gone to school.,Forces,69000,Pipe Bourn,Not smoking,No,Yes,No,719348449,No
+Chinthak Suriyawawa,41,Male,"Pansala Para ,Rambawa",Has not gone to school.,Agriculture,35000,Tube Well,Smoking,Yes,No,No,774823165,No
+Chinthaka,38,Male,"Labunoruwa ,Thirippane",Has not gone to school.,Other,40000,Tube Well,Smoking,No,Yes,No,94758829231,No
+Dayasiri,47,Male,"Ihalapalugas Wawa, Rajanaganaya",Has not gone to school.,Forces,63000,private well,Not smoking,Yes,No,No,785198970,No
+Dewinda,48,Male,"Thissapura, Rajanaganaya",Has not gone to school.,Agriculture,32000,private well,Smoking,No,No,Stress,776653040,No
+Diana ,49,Female," Pahala Thalawa , Thalawa",Al,Other,55000,Pipe Bourn,Not smoking,No,Yes,Diabetes,94757618391,No
+Dikman,64,Male,"Jankapura, Nikawawa, Walioya",Has not gone to school.,Agriculture,27000,Tube Well,Smoking,Yes,No,No,758754549,No
+Dilipa,34,Male," Janadhipathi Mawatha, Pahalagama, Thmbuthegama",Has not gone to school.,Forces,50000,private well,Not smoking,No,Yes,No,94758829231,No
+Dinesh Sinhawansa,23,Male,"4kanuwa  Galenbidunuwawa, Anuradhapura",Has not gone to school.,Forces,70000,Tube Well,Smoking,No,No,No,773515531,No
+Dinesh ,37,Male,"Wali Oya, Kalyanipura , Walioya",Has not gone to school.,Agriculture,29000,Public Well,Smoking,No,Yes,No,94754795507,No
+Dumidu,34,Male,"Halagama, Mihinthle",Has not gone to school.,Clerical,31000,Pipe Bourn,Not smoking,No,No,No,772013345,No
+Fahim,43,Male,"Kuda Wawa  Kiriibban Wawa,Walioya",Has not gone to school.,Other,47000,Pipe Bourn,Smoking,No,Yes,Diabetes,94774037218,No
+Fernando,44,Male,"Delnegama, Thmbuthegama",Has not gone to school.,Agriculture,25000,Public Well,Not smoking,No,Yes,No,94716500210,No
+Gayan ,26,Male,"Kumbukwawa,  Padaviya",Has not gone to school.,Other,55000,Public Well,Smoking,Yes,No,No,776553671,No
+Gayanatha,25,Male,"Gamunupura, Rajanaganaya",Has not gone to school.,Clerical,28000,private well,Not smoking,Yes,No,No,777567141,No
+Gayantha,39,Male,"Walswawa ,Ipologama Anurdhapura",Has not gone to school.,Agriculture,33000,Public Well,Not smoking,No,Yes,No,7798691340,No
+Gayantha,38,Male," Ihalala Kon Wawa, Konwawa, Thmbuthegama",Has not gone to school.,Forces,55000,Tube Well,Smoking,No,No,No,725213704,No
+Gayathri,41,Female,"Kala Gama, Thmbuthegam",OL,Agriculture,30000,private well,Not smoking,No,No,No,777115166,No
+Githanjali,46,Female,"Budhagala Rd, Padaviya",Graduated In University,Other,42000,Pipe Bourn,Not smoking,No,Yes,No,94756409845,No
+Gunarth bnada,68,Male,"Pothana, Mihinthale",Has not gone to school.,Agriculture,33000,Pipe Bourn,Not smoking,Yes,No,No,777543213,No
+Hansaka,31,Male,"Yakawewa, Madawachiya",Has not gone to school.,Labor,20000,Public Well,Smoking,No,Yes,No,714653369,No
+Hasun ,27,Male,"Konwawa, Kahatgasdigiliya",Has not gone to school.,Labor,21000,private well,Not smoking,Yes,No,No,771354928,No
+Herth bnada,60,Male,Ikiriwawa Rd  Thmbuthegama,Has not gone to school.,Agriculture,24500,Pipe Bourn,Not smoking,No,Yes,No,94711067919,No
+Hin nona,65,Female,"Hadungama, Ipalogama, Anurdhapura",Has not gone to school.,Agriculture,30000,private well,Not smoking,No,Yes,No,715154210,No
+Hisham,45,Male,"Thissapura, Rajanaganaya",Has not gone to school.,Forces,55000,private well,Not smoking,No,Yes,No,94755894059,No
+Imalka,37,Male,"Ketuwela,Madawachiya,",Has not gone to school.,Other,31000,Pipe Bourn,Not smoking,No,Yes,No,724135231,No
+Imesha,36,Female,"Ikiriwewa,Thambuttegama",Al,Clerical,40000,Public Well,Not smoking,Yes,No,No,715778973,No
+Indira,54,Female,"Hadungama, Ipalogama, Anurdhapura",OL,Clerical,30000,private well,Not smoking,No,Yes,No,94758184598,No
+Indrani Karunarthna,40,Female,"Kattaragama,Iplogama,Anurdhapura",OL,Other,34500,private well,Not smoking,No,Yes,No,712064482,No
+Indrawathi,59,Female,"Kattaragama,Iplogama,Anurdhapura",05 grade,Agriculture,40000,Tube Well,Not smoking,Yes,No,Pressure,714563982,No
+Indunil ,24,Male,"Weheragala ,Rajanaganaya",Has not gone to school.,Labor,30000,private well,Not smoking,Yes,No,No,779662710,No
+Iroshan,31,Male,"Thammenawa, Mihinthle,Anurdhapura",Has not gone to school.,Forces,65000,private well,,No,Yes,No,9478238115,No
+Isuru,38,Male,"Doramadalawa,Mihinthle",Has not gone to school.,Labor,25000,Pipe Bourn,Not smoking,Yes,No,No,774948435,No
+Janaka,36,Male,"Jankapura, Nikawawa, Walioya",Has not gone to school.,Clerical,35000,Pipe Bourn,Smoking,No,Yes,Stress,724425368,No
+Jayani,46,Female,"Labunoruwa ,Thirippane",Al,Other,40000,Pipe Bourn,Not smoking,No,Yes,No,94770150943,No
+Jayantha,35,Male,"Abayapura Rd,  Padaviya",Has not gone to school.,Clerical,19500,Pipe Bourn,Smoking,No,Yes,Stress,724872434,No
+Jiwantha,30,Male,"Yaya Hathara ,Pahala Wawwathambuththegama",Has not gone to school.,Other,40000,Tube Well,Smoking,Yes,No,No,718955732,No
+K.M.P Rajakaruna,59,Male,"Kirigaswawa, Kahatgasdigiliya",Has not gone to school.,Agriculture,20000,Pipe Bourn,Smoking,Yes,No,No,713259860,No
+K.p disanayaka,47,Male,"23 Colony East,Rajanganaya",Has not gone to school.,Other,50000,Public Well,Not smoking,Yes,No,No,712169672,No
+Kalhara ranathunga,38,Male,"Jankapura, Nikawawa, Walioya",Has not gone to school.,Agriculture,29000,Pipe Bourn,Smoking,Yes,No,No,782596310,No
+Kalpani,46,Female,"Konwawa, Kahatgasdigiliya",OL,Clerical,30000,Tube Well,Not smoking,No,No,,757111079,No
+Kamal,40,Male, Kalagama  Thmbuthegama,Has not gone to school.,Labor,30000,Public Well,Not smoking,No,Yes,No,94757155578,No
+Kanchana,29,Female,,OL,Forces,60000,private well,Not smoking,No,Yes,No,716494570,No
+Kanchana Nugawela,41,Female,"Jankapura, Nikawawa, Walioya",10 Grade,Agriculture,25000,private well,Not smoking,Yes,No,No,724578182,No
+Kashapa Ranathunga,37,Male,"Jankapura, Nikawawa, Walioya",Has not gone to school.,Agriculture,30000,Pipe Bourn,Not smoking,Yes,No,No,729059488,No
+Kasum Ranaweera,35,Male,"4kanuwa  Galenbidunuwawa, Anuradhapura",Has not gone to school.,Clerical,35000,Public Well,Smoking,Yes,No,No,772365970,No
+Kasun,29,Male,"Ikiriwawa  ,Thmbuthegama",Has not gone to school.,Clerical,35000,Tube Well,Smoking,No,Yes,No,94715609583,No
+Kasun,36,Male,"4kanuwa  Galenbidunuwawa, Anuradhapura",Has not gone to school.,Agriculture,39000,Public Well,Not smoking,No,Yes,No,94772877903,No
+Kasun Rajith,45,Male,Digana  Rd Raandenigma,Has not gone to school.,Agriculture,31000,Pipe Bourn,Not smoking,No,Yes,No,775475103,No
+Kasuni Iresha,25,Female,"Pansala Para ,Rambawa",OL,Agriculture,25000,Tube Well,Not smoking,Yes,No,No,775628956,No
+Kawinda,38,Male,"Doramadalawa,Mihinthle",Has not gone to school.,Other,19500,Pipe Bourn,Smoking,No,Yes,No,743304594,No
+Kawindu,38,Male,"Abayapura Rd,  Padaviya",Has not gone to school.,Agriculture,27000,Public Well,Smoking,No,Yes,No,777239260,No
+Kawindu ranasigha,25,Male,"Randenigama,Rajanaganaya",Has not gone to school.,Agriculture,40000,Pipe Bourn,Not smoking,Yes,No,No,771795251,No
+Krishanatha ariyawansa,45,Male,"Wali Oya Kalyanipura , Walioya",Has not gone to school.,Agriculture,20000,Pipe Bourn,Not smoking,Yes,No,No,725777154,No
+Krishantha,48,Male,"Udangawa, Uthurukotasa, Kakirawa",Has not gone to school.,Agriculture,25000,Tube Well,Smoking,No,Yes,No,94718789890,No
+Krishantha,36,Male,"Ruwanpura Rd, Padaviya",Has not gone to school.,Forces,77500,Tube Well,Smoking,No,No,No,716534898,No
+Kumara ,40,Male," Ipalogama ,Anurdhapura",Has not gone to school.,Agriculture,25000,Pipe Bourn,Smoking,No,No,No,713258937,No
+L.b. Herath,64,Male,"4kanuwa  Galenbidunuwawa, Anuradhapura",Has not gone to school.,Agriculture,20000,Pipe Bourn,Not smoking,Yes,No,No,712456789,No
+Lahiru,41,Male,"Railway Town,Madawachiya",Has not gone to school.,Clerical,35000,private well,Not smoking,Yes,No,No,785260094,No
+Lakshan,39,Male,"Rathmalgahawawa, Kahatgasdigiliya",Has not gone to school.,Clerical,41000,Pipe Bourn,Smoking,No,Yes,Stress,788832008,No
+Lakshan,49,Male,"Kattaragama,Iplogama,Anurdhapura",Has not gone to school.,Agriculture,32500,Pipe Bourn,Smoking,No,Yes,No,785611991,No
+Loku appu,63,Male,Track B  Padaviya,Has not gone to school.,Agriculture,30000,Pipe Bourn,Not smoking,Yes,No,No,778710736,No
+Madusanaka,30,Male, Kirigaswawa Rd Kahatgasdigiliya,Has not gone to school.,Clerical,35000,Public Well,Smoking,Yes,No,No,723958957,No
+Mahesh,39,Male,"Ketuwela,Madawachiya,",Has not gone to school.,Clerical,28000,Pipe Bourn,Not smoking,No,No,No,771988050,No
+Mahinad Gamlath,56,Male,"Ranawirugama, Weheragala , Thmbuthegama",Has not gone to school.,Agriculture,32000,Pipe Bourn,Not smoking,No,Yes,No,94766232707,No
+Mahinda Rajasigha,34,Male,"Divuwawa,Kahatgasdigiliya",Has not gone to school.,Other,35000,Public Well,Smoking,Yes,No,No,728230083,No
+Mahindarthna,50,Male,"Galwawa, Padawiya",Has not gone to school.,Clerical,40000,Tube Well,Smoking,No,Yes,No,94774037218,No
+Maithri Rathnayaka,35,Female,"Ikiriwewa,Thambuttegama",Al,Agriculture,40000,Public Well,Not smoking,Yes,No,No,722669296,No
+Malaka,29,Male,"Ihalapalugas Wawa, Rajanaganaya",Has not gone to school.,Other,40000,private well,Not smoking,Yes,No,No,779516303,No
+Malisha,38,Male,"Pothana, Mihinthale",Has not gone to school.,Agriculture,25000,private well,Not smoking,Yes,No,No,772757857,No
+Malkantha Jayasigha,41,Male,"Pola Rd ,  Thambuthegama",Has not gone to school.,Agriculture,20000,private well,Not smoking,Yes,No,No,786139616,No
+Malkantha Padmasiri,59,Male,"Kuda Wawa  Kiriibban Wawa,Walioya",Has not gone to school.,Agriculture,20000,Public Well,Not smoking,Yes,No,No,717401229,No
+Malkanthi,61,Female,"Thammenawa, Mihinthle,Anurdhapura",Al,Other,47000,Tube Well,Not smoking,Yes,No,Pressure,255251459,No
+Manoj,29,Male,"Wawa Road, Galkandagama,Rambawa",Has not gone to school.,Agriculture,20000,Public Well,Not smoking,No,Yes,No,94717892430,No
+Manoj ,35,Male,"77 Digana Mawatha, Pahalagama Mawatha, Thambuththegama",Has not gone to school.,Other,31000,Pipe Bourn,Smoking,No,Yes,No,774318046,No
+Maya,47,Male,"Nawagththa Para, Kakirawa.",Has not gone to school.,Forces,70000,Tube Well,Not smoking,No,Yes,No,94776542248,No
+Meda Alwis,34,Female,"Yakawewa, Madawachiya",Graduated In University,Other,45000,private well,Not smoking,No,Yes,No,7151017823,No
+Menaka Rajakaruna,42,Female,Track B  Padaviya,10 Grade,Clerical,39000,private well,Not smoking,No,Yes,No,723944027,No
+Mihidu adikari,41,Male,", 21 Colony ,Galenbidunuwawa",Has not gone to school.,Agriculture,29000,Pipe Bourn,Not smoking,Yes,No,No,786114658,No
+Mihiran,29,Male,"Adipara ,   Rajanganaya",Has not gone to school.,Labor,37000,Tube Well,Not smoking,Yes,No,No,745239632,No
+Miyura Satharsigha,31,Male,33B Kirigaswawa Rd Kahatgasdigiliya,Has not gone to school.,Other,40000,Public Well,Smoking,Yes,No,No,757111079,No
+Mudiyanse ,63,Male,"Bulnewa, Iapalogama, Anurdhapura",Has not gone to school.,Retired,25000,Tube Well,Not smoking,Yes,No,No,714653369,No
+Nadeshan Piyumantha,43,Male,"   Ranawiru Mawatha ,Mahasepura  , Padaviya",Has not gone to school.,Clerical,29000,Pipe Bourn,Smoking,No,Yes,No,778918577,No
+Nadika Karunarthna,36,Female,"Negama, Ipologama, Anurdhapura",OL,Labor,31000,private well,Not smoking,No,Yes,No,94715609583,No
+Nadishan,42,Male,"Rathmalgahawawa, Kahatgasdigiliya",Has not gone to school.,Other,51000,Pipe Bourn,Smoking,No,Yes,No,772796388,No
+Nathasha,37,Female,"Ketuwela,Madawachiya,",Al,Clerical,33000,private well,Not smoking,No,Yes,No,717401229,No
+Navin ,31,Male,"Halagama, Mihinthle",Has not gone to school.,Forces,59000,Tube Well,Smoking,No,Yes,No,94711444048,No
+Nayana,43,Female,Ikiriwawa Rd  Thmbuthegama,10 Grade,Agriculture,19500,private well,Not smoking,No,Yes,No,94776542248,No
+Nayani,39,Female,"Bulnewa, Iapalogama, Anurdhapura",OL,Labor,27000,private well,Not smoking,No,Yes,No,728538834,No
+Nevine,46,Male,"Bulnewa, Iapalogama, Anurdhapura",Has not gone to school.,Forces,65500,Pipe Bourn,Not smoking,No,Yes,No,94789512160,No
+Nihal ,57,Male,"4kanuwa  Galenbidunuwawa, Anuradhapura",Has not gone to school.,Agriculture,40000,Pipe Bourn,Smoking,Yes,No,No,752083940,No
+Nimal  jayakodi,41,Male,"Ihalapalugas Wawa, Rajanaganaya",Has not gone to school.,Agriculture,25000,Tube Well,Smoking,Yes,No,No,774980560,No
+Nimal ranawaka,57,Male,"Wihara Mawatha, Ihala Kirigas Wawa, Kirigaswawa,Kahatagasdigiliya",Has not gone to school.,Retired,30000,private well,Not smoking,Yes,No,No,778918577,No
+Nimantha,29,Male,"Walswawa ,Ipologama Anurdhapura",Has not gone to school.,Other,31500,Pipe Bourn,Not smoking,No,Yes,No,94727174123,No
+Nimantha,31,Male,"Namalgamuwa, Ipalogama ,Anurdhapura",Has not gone to school.,Labor,25000,Pipe Bourn,Not smoking,Yes,No,No,712569874,No
+Nirmala,41,Female,"Divuwawa,Kahatgasdigiliya",OL,Agriculture,30000,private well,Not smoking,No,Yes,No,94714326830,No
+Nishanath Iddamalgoda,42,Male,"Kumbukwawa,  Padaviya",Has not gone to school.,Other,38000,Tube Well,Smoking,Yes,No,No,771988050,No
+Nuwan Disanayaka,29,Male,"Pothana, Mihinthale",Has not gone to school.,Other,38000,Tube Well,Not smoking,Yes,No,No,774215069,No
+Padma ,62,Female,"Mahakubuk Wawa, Kahatagasgigiliya",05 grade,Agriculture,35000,Public Well,Not smoking,No,Yes,Pressure,94767426922,No
+Peshala  Premarthna,35,Female,"  Siyabalagaswawa Rd  Siyabalagaswawa ,Rembewa",OL,Labor,31500,Public Well,Not smoking,No,Yes,No,94728928925,No
+Peshala Nirmani,26,Female,"21 Colony East, Galenbidunuwawa",Al,Clerical,35000,Pipe Bourn,Not smoking,Yes,No,No,774693256,No
+Piyumi,34,Female," Konwawa, Thmbuthegama",OL,Labor,20000,Public Well,Not smoking,No,Yes,No,723426369,No
+Podinona,67,Female,"Randenigama,Rajanaganaya",05 grade,Agriculture,22000,Pipe Bourn,Not smoking,Yes,No,Pressure,255868921,No
+Pradeep,30,Male,"Padaviya Wewa Rd, Padaviya",Has not gone to school.,Agriculture,45000,Public Well,Not smoking,No,Yes,No,94711067919,No
+Prageth  Perera,35,Male,"Gamunupura, Rajanaganaya",Has not gone to school.,Agriculture,25000,Tube Well,Smoking,Yes,No,No,729330124,No
+Pramsiriri Karunnayaka,50,Male,"Walpola, Madawachchiya",Has not gone to school.,Retired,22000,private well,Not smoking,Yes,No,No,728538834,No
+Prasd,37,Male,"Mahakubuk Wawa, Kahatagasgigiliya",Has not gone to school.,Other,30000,Pipe Bourn,Smoking,No,No,No,726111000,No
+Preamalal,48,Male,"Kirigaswawa, Kahatgasdigiliya",Has not gone to school.,Agriculture,30000,Pipe Bourn,Not smoking,Yes,No,No,715281269,No
+Preamthunga,39,Male,"Wali Oya Kalyanipura , Walioya",Has not gone to school.,Other,39000,Pipe Bourn,Not smoking,Yes,No,No,726450776,No
+Preddep,47,Male,"Kirigaswawa, Kahatgasdigiliya",Has not gone to school.,Agriculture,33000,Pipe Bourn,Smoking,No,Yes,No,712169672,No
+Premarathna Punchihewa,48,Male,"Pola Rd ,  Thambuthegama",Has not gone to school.,Agriculture,25000,Tube Well,Smoking,Yes,No,No,778692365,No
+Premasiri,56,Male,"Yaya Hathara ,Pahala Wawwa,Thmbuthegama",Has not gone to school.,Retired,23000,Pipe Bourn,Not smoking,No,Yes,No,94778098673,No
+Premasiri,58,Male,"Kala Gama, Thmbuthegam",Has not gone to school.,Agriculture,34500,private well,Smoking,No,Yes,Pressure,725227685,No
+Premasiri Wijekon,51,Male,"Divuwawa,Kahatgasdigiliya",Has not gone to school.,Other,35000,Tube Well,Smoking,Yes,No,No,777456213,No
+Premathilaka,64,Male,"Kirigaswawa, Kahatgasdigiliya",Has not gone to school.,Agriculture,34500,Pipe Bourn,Not smoking,No,Yes,No,94717892430,No
+Premathilaka,45,Male,87 Digan Rd  Randenigama,Has not gone to school.,Other,34000,private well,Not smoking,No,Yes,No,94787475779,No
+Premathna Banadara,47,Male,"Ihalagalagedara Gama,Galagadara Gama Rd, Ipologama",Has not gone to school.,Forces,80000,Public Well,Not smoking,Yes,No,No,777357888,No
+Prerathna Wikadenigama,56,Male,"Jankapura, Nikawawa, Walioya",Has not gone to school.,Agriculture,35000,private well,Smoking,Yes,No,No,716900093,No
+Priyanka,54,Male,"Kirigaswawa, Kahatgasdigiliya",Has not gone to school.,Agriculture,71000,private well,Smoking,No,Yes,Pressure,94757155578,No
+Priyantha banadara,46,Male,"Pansala Para ,Rambawa",Has not gone to school.,Agriculture,30000,Pipe Bourn,Not smoking,Yes,No,No,725848963,No
+Priynkara,38,Male,"Nawagththa Para, Kakirawa.",Has not gone to school.,Agriculture,34000,Public Well,Not smoking,No,Yes,No,,No
+Promodh Rajakaruna,41,Male,Ruwanpura Rd Padaviya,Has not gone to school.,Other,60000,Public Well,Not smoking,Yes,No,No,2547859632,No
+Punchi Banada,67,Male,"Kattaragama,Iplogama,Anurdhapura",Has not gone to school.,Agriculture,35000,Pipe Bourn,Not smoking,Yes,No,No,712734010,No
+Pushpika Rajakaruna,32,Male,"Ranawirugama, Weheragala , Thmbuthegama",Has not gone to school.,Clerical,40000,private well,Smoking,Yes,No,No,716396844,No
+Pushpitha Anjana,34,Male,"Thissapura, Rajanaganaya",Has not gone to school.,Labor,25000,private well,Not smoking,Yes,No,No,716023649,No
+Rajitha,29,Male,"Bulnewa, Iapalogama, Anurdhapura",Has not gone to school.,Other,51500,Public Well,Smoking,No,Yes,No,786156409,No
+Raju,53,Male,"Rohal Mawatha ,Thmbuththegama",Has not gone to school.,Agriculture,32000,Public Well,Not smoking,No,Yes,Pressure,94787475779,No
+Ranga,31,Male,,Has not gone to school.,Other,60000,Pipe Bourn,Not smoking,Yes,No,No,716575529,No
+Ranhami,57,Male,Track B  Padaviya,Has not gone to school.,Agriculture,41500,private well,Smoking,No,Yes,Diabetes,776463309,No
+Ranjith,52,Male,"Kala Gama, Thmbuthegam",Has not gone to school.,Retired,32500,Tube Well,Smoking,No,Yes,No,94756409845,No
+Ranjith,50,Male,"Pansala Para ,Rambawa",Has not gone to school.,Other,40000,Tube Well,Smoking,Yes,No,No,704258897,No
+Rasika,40,Male,"Ihalapalugas Wawa, Rajanaganaya",Has not gone to school.,Agriculture,37000,Public Well,Smoking,No,Yes,No,714062049,No
+Ravi,34,Male,"Halagama, Mihinthle",Has not gone to school.,Labor,29000,Public Well,Not smoking,No,Yes,No,94712594562,No
+Rawihansa,33,Male,"Ihala Waw Iwura, Rajanganay",Has not gone to school.,Forces,50000,Public Well,Not smoking,Yes,No,No,9472412599,No
+Rodney,57,Male,Padaviya Lake Rd.Padaviya,Has not gone to school.,Retired,24500,private well,Smoking,No,Yes,Diabetes,94756810140,No
+Rohan ,49,Male,"Hadungama, Ipalogama, Anurdhapura",Has not gone to school.,Labor,27000,Public Well,Smoking,No,Yes,Pressure,94778098673,No
+Roshan,39,Male,"Kala Gama,Thmbuthegama",Has not gone to school.,Agriculture,31000,Tube Well,Smoking,No,Yes,No,94756806350,No
+Roshan,40,Male,"Sirimapura,Rajanaganaya",Has not gone to school.,Agriculture,20000,Tube Well,Smoking,No,No,No,715242372,No
+Roshan Sennnayak,41,Male,"  Akila Niwasa ,Balayawawa,  Pdawiya Rd  Padawiya",Has not gone to school.,Labor,29000,Public Well,Not smoking,No,Yes,No,94771030318,No
+Ruchira,26,Male,"21 Colony East,Rajanganaya",Has not gone to school.,Other,41000,Tube Well,Not smoking,Yes,No,No,776285681,No
+Ruwan Chamara,48,Male,"Budhagala Rd, Padaviya",Has not gone to school.,Other,37000,Tube Well,Not smoking,No,Yes,No,94758913721,No
+S. Athukorala,40,Male,,Has not gone to school.,Labor,30000,Pipe Bourn,Smoking,Yes,No,No,742501258,No
+Sachintha,27,Male,"  Naigala , Rajanganaya",Has not gone to school.,Forces,73000,Pipe Bourn,Smoking,No,No,No,719398702,No
+Sachinthaka,54,Male,"Ihalapalugas Wawa, Rajanaganaya",Has not gone to school.,Retired,20000,Tube Well,Smoking,No,Yes,No,94757618391,No
+Sadamal,26,Male,"Ihala Kalagama, Kalagama, Thmbuththegama",Has not gone to school.,Forces,69000,Public Well,,No,Yes,No,94773425997,No
+Sadaruma,39,Male,"Negama, Ipologama, Anurdhapura",Has not gone to school.,Agriculture,34500,Pipe Bourn,Not smoking,No,Yes,No,752732914,No
+Sadmali,23,Female,"Weheragala ,Rajanaganaya",OL,Agriculture,40000,Tube Well,Not smoking,No,No,No,712667544,No
+Sadun ,28,Male,"Railway Town,Madawachiya",Has not gone to school.,Other,38000,private well,Not smoking,No,Yes,No,94756810140,No
+Salitha ,40,Male,"Jankapura, Nikawawa, Walioya",Has not gone to school.,Clerical,34500,Pipe Bourn,Not smoking,No,Yes,No,94756806350,No
+Saliya Abeysekara,57,Male,"Ihala Iwura ,Rajanganaya",Has not gone to school.,Other,52500,private well, Smoking,No,No,No,728770640,No
+Saman ,41,Male,"Budhagala Rd, Padaviya",Has not gone to school.,Labor,25000,Pipe Bourn,Not smoking,Yes,No,No,779760775,No
+Saman Aberthna,41,Male,"Railway Town,Madawachiya",Has not gone to school.,Labor,30000,Public Well,Smoking,No,Yes,No,94727174123,No
+Saman Galahena,52,Male,Ikiriwawa Rd  Thmbuthegama,Has not gone to school.,Agriculture,25000,Tube Well,Smoking,Yes,No,No,714589236,No
+Sameera,31,Male,"Abagaswawa, Mihinthale",Has not gone to school.,Other,40000,Tube Well,Smoking,No,Yes,No,94767426922,No
+Sameera,38,Male,"Bulnewa, Iapalogama, Anurdhapura",Has not gone to school.,Clerical,31000,Pipe Bourn,Smoking,No,Yes,No,752286246,No
+Samerra,29,Male,"Ruwanpura Rd, Padaviya",Has not gone to school.,Other,44000,Public Well,Not smoking,Yes,No,No,745689321,No
+Samira,35,Male,"Negama, Ipologama, Anurdhapura",Has not gone to school.,Other,33000,Tube Well,Not smoking,No,Yes,No,94771030318,No
+Samitha,39,Male,"Nuwarawewa, Mihinthale",Has not gone to school.,Clerical,35500,Pipe Bourn,Smoking,No,Yes,Stress,725280120,No
+Sampath,39,Male,"Randenigama,Rajanaganaya",Has not gone to school.,Agriculture,27000,Pipe Bourn,Smoking,No,No,No,719025689,No
+Sandra ,38,Female,"Bulnewa, Iapalogama, Anurdhapura",OL,Clerical,36000,private well,Not smoking,No,Yes,No,94767426922,No
+Sanjay ,31,Male,"Wihara Mawatha, Ihala Kirigas Wawa, Kirigaswawa,Kahatagasdigiliya",Has not gone to school.,Forces,61500,Pipe Bourn,Smoking,No,Yes,No,94717943052,No
+Sanjeeva,45,Male,"Ihlagama, Nikawawa,Walioya",Has not gone to school.,Agriculture,34500,Tube Well,Smoking,No,Yes,Pressure,94771729303,No
+Sanjeewa,43,Male," Pahankandiya,Kumbukwawa ,",Has not gone to school.,Forces,67000,Pipe Bourn,Smoking,No,No,No,713333034,No
+Sarath Rathnayaka,39,Male,"Kuda Wawa  Kiriibban Wawa,Walioya",Has not gone to school.,Other,40000,Tube Well,Not smoking,Yes,No,No,774318046,No
+Shalika,21,Female,Track B  Padaviya,Al,Other,35000,Pipe Bourn,Not smoking,No,Yes,No,94772768964,No
+Shalika Maduwanthi,28,Female,"Wali Oya Kalyanipura , Walioya",Al,Clerical,36000,Pipe Bourn,Not smoking,Yes,No,No,780986578,No
+Shamalaka Ranasigha,26,Female,"Weheragala ,Rajanaganaya",Al,Other,45000,Tube Well,Not smoking,Yes,No,Stress,775632142,No
+Shan,35,Male,"Lindawewa, Madawachiya",Has not gone to school.,Labor,19000,Public Well,Smoking,No,Yes,No,778823133,No
+Shanaka,36,Male,"Rathmalgahawawa, Kahatgasdigiliya",Has not gone to school.,Forces,70000,Public Well,Not smoking,Yes,No,No,7725367856,No
+Shnatha ,53,Male,"Delnegama, Thmbuthegama",Has not gone to school.,Agriculture,30000,Tube Well,Smoking,Yes,No,No,774993254,No
+Silawathi,62,Female,"Labunoruwa ,Thirippane",05 grade,Agriculture,34500,private well,Not smoking,No,Yes,No,722897522,No
+Sitha ,45,Female,"Namalgamuwa, Ipalogama ,Anurdhapura",09 Grade,Labor,25000,Public Well,Not smoking,Yes,No,Diabetes,373104697,No
+Sithari ,43,Female,"Randenigama,Rajanaganaya",09 Grade,Agriculture,25000,Public Well,Not smoking,No,Yes,No,7164940570,No
+Sithum,35,Male,"Ranasigha Mawatha, Jayasirigama, Thambuththegama",Has not gone to school.,Forces,54000,Tube Well,Not smoking,No,Yes,No,776461166,No
+Sithum Adhikari,30,Male,"Weheragala ,Rajanaganaya",Has not gone to school.,Labor,31000,Public Well,,No,Yes,No,94754438705,No
+Sithumini,47,Female,"Ihlagama, Nikawawa,Walioya",OL,Other,30000,,Not smoking,No,Yes,No,712611328,No
+Sohan,46,Male,"Namalgamuwa, Ipalogama ,Anurdhapura",Has not gone to school.,Forces,42000,private well,Not smoking,No,Yes,No,94770150943,No
+Somarthna,61,Male,"Gamunupura, Rajanaganaya",Has not gone to school.,Retired,22500,Pipe Bourn,Not smoking,No,Yes,No,94754646809,No
+Somarthna,59,Male,"Yaya Hathara ,Pahala Wawwathambuththegama",Has not gone to school.,Agriculture,20000,Pipe Bourn,Not smoking,Yes,No,No,714996034,No
+Srimathi,52,Female,"Pansala Para ,Rambawa",09 Grade,Other,45000,private well,Not smoking,Yes,No,No,771266980,No
+Sriyantha,47,Male,"4kanuwa  Galenbidunuwawa, Anuradhapura",Has not gone to school.,Agriculture,30000,Pipe Bourn,Not smoking,Yes,No,No,771279127,No
+Sudera,29,Male,"Kumbukwawa,  Padaviya",Has not gone to school.,Other,53000,Public Well,Not smoking,No,Yes,No,94767879792,No
+Sujith ,44,Male,"Amunugama, Yayahathra, Thalawa",Has not gone to school.,Agriculture,31000,Tube Well,Smoking,No,Yes,No,94789512160,No
+Sujith Prasanna,48,Male,"Ihalapalugas Wawa, Rajanaganaya",Has not gone to school.,Agriculture,20000,Tube Well,Smoking,Yes,No,No,254721305,No
+Sujiwa,46,Male,"Namalgamuwa, Ipalogama ,Anurdhapura",Has not gone to school.,Agriculture,26000,Public Well,Not smoking,No,Yes,No,94771729303,No
+Sumudu,22,Male,"Ihala Ipologam, Ipologama",Has not gone to school.,Other,35000,Tube Well,Smoking,No,Yes,No,94717943052,No
+Sunil,51,Male,"Kuda Wawa  Kiriibban Wawa,Walioya",Has not gone to school.,Labor,27000,Public Well,Not smoking,No,Yes,Pressure,94754646809,No
+Sunil Nishanatha,42,Male,"Ihalagalagedara Gama,Galagadara Gama Rd, Ipologama",Has not gone to school.,Agriculture,25000,Public Well,Not smoking,Yes,No,No,771662730,No
+Sunil Premarthna,40,Male,"Walpola, Madawachchiya",Has not gone to school.,Forces,69000,Tube Well,Not smoking,Yes,No,No,725280120,No
+Sunil Rathnayaka,47,Male,"Ranawirugama, Weheragala , Thmbuthegama",Has not gone to school.,Agriculture,30000,Tube Well,Smoking,Yes,No,No,712667544,No
+Supun,34,Male,"Kandiya Mawatha, Delnegama,Thambuththegama",Has not gone to school.,Agriculture,32000,Public Well,Smoking,No,Yes,No,776224644,No
+Supunni Rajakaruna,23,Female,"Yakawewa, Madawachiya",Al,Clerical,50000,Pipe Bourn,Not smoking,Yes,No,No,775268745,No
+Surendra,45,Male,"Budhagala Rd, Padaviya",Has not gone to school.,Agriculture,35000,private well,Smoking,No,No,Diabetes,777456213,No
+Suresh,24,Male,"Nawagththa Para, Kakirawa.",Has not gone to school.,Forces,25000,Public Well,Not smoking,No,Yes,No,94716297584,No
+Susil Kondadeniya,56,Male,"5 Colony East,Rajanganaya",Has not gone to school.,Retired,42000,Pipe Bourn,Not smoking,Yes,No,No,785611991,No
+Terance,47,Male,"Walpola, Madawachchiya",Has not gone to school.,Other,45000,Public Well,Not smoking,Yes,No,No,784105236,No
+Tharindu,35,Male,"Labunoruwa ,Thirippane",Has not gone to school.,Clerical,35000,Tube Well,Not smoking,No,Yes,No,94728928925,No
+Tharushi,27,Female,"Ambalama Mawatha,Mahadivulwawa, Kakirawa",Al,Clerical,42000,Tube Well,Not smoking,No,Yes,No,94754438705,No
+Thilanga,51,Male,"Halagama, Mihinthle",Has not gone to school.,Agriculture,30000,Public Well,Not smoking,No,Yes,No,94758184598,No
+Thilanga,46,Male,"Pansala Para ,Rambawa",Has not gone to school.,Other,30000,private well, Smoking,No,No,No,729330124,No
+Thilkasiri,65,Male,"Kuda Wawa  Kiriibban Wawa,Walioya",Has not gone to school.,Agriculture,28000,Public Well,Not smoking,No,Yes,No,94711491648,No
+Ukkubanada,60,Male,"Ikiriwawa Rd ,Thambuththegama",Has not gone to school.,Agriculture,29000,private well,Smoking,No,Yes,Pressure,725807208,No
+Ukubnda,64,Male,Track B  Padaviya,07 Grade,Agriculture,30000,Tube Well,Smoking,Yes,No,No,775283698,No
+Vinod,27,Male,"Pothana, Mihinthale",Al,Agriculture,25000,private well, Smoking,Yes,No,No,789630607,No
+Vipula Dukgannarala,30,Male,"Adikarigama ,Ihala Iwura ,Rajanganaya",OL,Forces,60000,private well,Smoking,No,No,No,718457053,No
+Vishwa,45,Male,"Jaya Mawatha ,Palugaswawa,Mahavilachchiya",OL,Agriculture,37500,Pipe Bourn,Smoking,No,Yes,No,712938379,No
+Wishwa Adikari,53,Male,Ikiriwawa Rd  Thmbuthegama,OL,Retired,35000,private well,Not smoking,Yes,No,No,779084435,No
+Yashoda,35,Female,"Ihlagama, Nikawawa,Walioya",OL,Other,21500,,Not smoking,No,Yes,No,774007525,No
